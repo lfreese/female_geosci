@@ -1,0 +1,2487 @@
+,Gender,Discipline,Career Stage,EPAO
+1,f,"geochemistry, geology",assistant professor,Earth
+2,f,planetary science,assistant professor,Planet
+3,f,planetary science,assistant professor,Planet
+4,f,planetary science,assistant professor,Planet
+5,m,planetary science,assistant professor,Planet
+6,m,planetary science,assistant professor,Planet
+7,m,geophysics,assistant professor,Earth
+8,m,planetary science,assistant professor,Planet
+9,f,planetary science,assistant professor,Planet
+10,m,planetary science,assistant professor,Planet
+11,f,geobiology,assistant professor,Earth
+12,m,planetary science,assistant professor,Planet
+13,m,planetary science,associate professor,Planet
+14,f,"geophysics, geology",associate professor,Earth
+15,m,planetary science,associate professor,Planet
+16,f,planetary science,associate professor,Planet
+17,m,"geology, geochemistry",associate professor,Earth
+18,f,planetary science,associate professor,Planet
+19,f,ecology,associate professor,
+20,f,"geophysics, planetary science",associate professor,Planet
+21,f,planetary science,associate professor,Planet
+22,m,planetary science,associate professor,Planet
+23,m,"biogeochemistry, geochemistry",professor,Earth
+24,m,"geophysics, geology",professor,Earth
+25,m,ecology,professor,
+26,m,planetary science,professor,Planet
+27,m,planetary science,professor,Planet
+28,m,"geochemistry, geology",professor,Earth
+29,m,geochemistry,professor,Earth
+30,m,"geology, planetary science",professor,Planet
+31,m,planetary science,professor,Planet
+32,f,planetary science,professor,Planet
+33,m,"planetary science, geobiology, paleontology, geology",professor,Planet
+34,m,geophysics,professor,Earth
+35,f,"biogeochemistry, geochemistry, geobiology",professor,Earth
+36,m,geochemistry,professor,Earth
+37,m,atmospheric chemistry,professor,Atmosphere
+38,m,"planetary science, geochemistry ",professor,Planet
+39,m,"planetary science, geology",professor,Planet
+40,m,planetary science,professor,Planet
+41,m,geology,professor,Earth
+42,m,planetary science,professor,Planet
+43,m,planetary science,professor,Planet
+44,m,"hydrology, geochemistry, chemical oceanography",professor,Ocean
+45,m,education,professor,
+46,m,geology,professor,Earth
+47,m,biogeochemistry,professor,Earth
+48,m,planetary science,professor,Planet
+49,m,planetary science,professor,Planet
+50,m,hydrology,professor,
+51,f,"planetary science, geochemistry ",professor,Planet
+52,m,geomorphology,professor,Earth
+53,m,geomorphology,professor,Earth
+54,m,planetary science,professor,Planet
+55,f,planetary science,professor,Planet
+56,m,planetary science,professor,Planet
+57,m,geophysics,professor,Earth
+58,f,"biogeochemistry, chemical oceanography, biological oceanography",assistant professor,Ocean
+59,f,geophysics,assistant professor,Earth
+60,m,"biogeochemistry, geochemistry, geobiology",assistant professor,Earth
+61,m,"atmospheric dynamics, climate dynamics",associate professor,Atmosphere
+62,m,"paleoclimate, geology",associate professor,Earth
+63,m,geophysics,professor,Earth
+64,m,geology,professor,Earth
+65,f,"geochemistry, geobiology",professor,Earth
+66,m,"biogeochemistry, chemical oceanography",professor,Ocean
+67,f,atmospheric chemistry,professor,Atmosphere
+68,m,planetary science,professor,Planet
+69,m,geophysics,professor,Earth
+70,m,planetary science,professor,Planet
+71,m,atmospheric chemistry,professor,Atmosphere
+72,m,"glaciology, geophysics",professor,Earth
+73,m,"geomorphology, ecology",professor,Earth
+74,m,geophysics,professor,Earth
+75,f,"atmospheric dynamics, biogeochemistry",professor,Atmosphere
+76,m,"geophysics, geomorphology",professor,Earth
+77,m,geophysics,professor,Earth
+78,f,geophysics,professor,Earth
+79,m,atmospheric dynamics,professor,Atmosphere
+80,m,geochemistry,professor,Earth
+81,m,"hydrology, geology",professor,Earth
+82,m,geology,professor,Earth
+83,f,biogeochemistry,professor,Earth
+84,f,"geology, geochemistry",professor,Earth
+85,m,geophysics,assistant professor,Earth
+86,m,geology,associate professor,Earth
+87,f,geophysics,associate professor,Earth
+88,m,geochemistry,associate professor,Earth
+89,m,geophysics,associate professor,Earth
+90,m,geophysics,associate professor,Earth
+91,f,"climate dynamics, biogeochemistry",associate professor,Earth
+92,m,geology,professor,Earth
+93,m,"geochemistry, geophysics",professor,Earth
+94,m,geomorphology,professor,Earth
+95,f,geophysics,professor,Earth
+96,m,physical oceanography,professor,Ocean
+97,m,"paleoclimate, biogeochemistry",professor,Earth
+98,m,"paleoclimate, geochemistry, biogeochemistry",professor,Earth
+99,m,"geology, geochemistry",professor,Earth
+100,m,hydrology,professor,
+101,m,"geophysics, geology",professor,Earth
+102,m,"geochemistry, biogeochemistry",professor,Earth
+103,f,geophysics,professor,Earth
+104,f,geology,assistant professor,Earth
+105,m,physical oceanography,assistant professor,Ocean
+106,f,planetary science,assistant professor,Planet
+107,m,geophysics,assistant professor,Earth
+108,m,"geochemistry, geology",assistant professor,Earth
+109,m,geophysics,assistant professor,Earth
+110,m,geochemistry,professor,Earth
+111,m,"geochemistry, geology",professor,Earth
+112,m,"geology, geophysics",professor,Earth
+113,m,planetary science,professor,Planet
+114,m,"geochemistry, planetary science",professor,Planet
+115,f,atmospheric dynamics,professor,Atmosphere
+116,m,planetary science,professor,Planet
+117,m,geophysics,professor,Earth
+118,f,"geology, planetary science",professor,Planet
+119,m,"geochemistry, geology",professor,Earth
+120,m,"geochemistry, geology",professor,Earth
+121,m,"geobiology, geology",professor,Earth
+122,m,"biogeochemistry, geochemistry, climate dynamics",professor,Earth
+123,m,"geobiology, geology",professor,Earth
+124,m,geophysics,professor,Earth
+125,m,geophysics,professor,Earth
+126,m,"planetary science, atmospheric dynamics",professor,Planet
+127,f,geophysics,professor,Earth
+128,m,"geobiology, geology",professor,Earth
+129,f,planetary science,professor,Planet
+130,m,planetary science,professor,Planet
+131,m,geology,professor,Earth
+132,f,geophysics,professor,Earth
+133,m,"geobiology, ecology, biogeochemistry",professor,Earth
+134,f,"geobiology, geochemistry, biogeochemistry",professor,Earth
+135,f,"biogeochemistry, ecology, geobiology",professor,Earth
+136,m,"geochemistry, geology",professor,Earth
+137,m,"climate dynamics, atmospheric dynamics",professor,Atmosphere
+138,m,"biogeochemistry, geochemistry, geobiology",professor,Earth
+139,m,geophysics,professor,Earth
+140,m,"geophysics, planetary science",professor,Planet
+141,f,"geology, geophysics",professor,Earth
+142,m,geology,professor,Earth
+143,m,physical oceanography,professor,Ocean
+144,m,geophysics,professor,Earth
+145,m,atmospheric chemistry,professor,Atmosphere
+146,m,geology,professor,Earth
+147,m,"planetary science, atmospheric chemistry",professor,Planet
+148,m,geophysics,assistant professor,Earth
+149,f,gis/engineering,assistant professor,
+150,m,"geology, planetary science",assistant professor,Planet
+151,f,geomorphology,assistant professor,Earth
+152,m,geology,assistant professor,Earth
+153,f,geology,associate professor,Earth
+154,f,geochemistry,associate professor,Earth
+155,m,geology,associate professor,Earth
+156,f,"geology, gis/engineering",associate professor,Earth
+157,f,geophysics,professor,Earth
+158,m,hydrology,professor,
+159,m,geology,professor,Earth
+160,f,geochemistry,professor,Earth
+161,m,"geology, geochemistry",professor,Earth
+162,m,geology,professor,Earth
+163,f,geology,professor,Earth
+164,m,geology,professor,Earth
+165,f,"hydrology, geophysics",professor,Earth
+166,m,geology,professor,Earth
+167,f,geology,professor,Earth
+168,f,geophysics,assistant professor,Earth
+169,m,geophysics,assistant professor,Earth
+170,m,glaciology,assistant professor,
+171,m,geophysics,associate professor,Earth
+172,m,geophysics,associate professor,Earth
+173,m,geophysics,associate professor,Earth
+174,m,geophysics,professor,Earth
+175,m,geophysics,professor,Earth
+176,m,geophysics,professor,Earth
+177,f,geophysics,professor,Earth
+178,m,geophysics,professor,Earth
+179,m,seismology,professor,
+180,m,geophysics,professor,Earth
+181,m,atmospheric chemistry,professor,Atmosphere
+182,f,atmospheric dynamics,assistant professor,Atmosphere
+183,f,climate dynamics,assistant professor,
+184,f,atmospheric dynamics,associate professor,Atmosphere
+185,m,atmospheric dynamics,associate professor,Atmosphere
+186,f,"atmospheric chemistry, atmospheric dynamics",associate professor,Atmosphere
+187,f,atmospheric chemistry,associate professor,Atmosphere
+188,m,atmospheric chemistry,associate professor,Atmosphere
+189,m,atmospheric dynamics,associate professor,Atmosphere
+190,m,"atmospheric chemistry, geochemistry",professor,Atmosphere
+191,m,"biogeochemistry, atmospheric dynamics",professor,Atmosphere
+192,m,climate dynamics,professor,
+193,f,atmospheric chemistry,professor,Atmosphere
+194,m,"atmospheric dynamics, hydrology",professor,Atmosphere
+195,m,atmospheric dynamics,professor,Atmosphere
+196,m,atmospheric dynamics,professor,Atmosphere
+197,m,atmospheric dynamics,professor,Atmosphere
+198,m,atmospheric dynamics,professor,Atmosphere
+199,f,atmospheric dynamics,professor,Atmosphere
+200,m,atmospheric dynamics,professor,Atmosphere
+201,m,geomorphology,assistant professor,Earth
+202,m,geophysics,assistant professor,Earth
+203,m,"geochemistry, paleoclimate",assistant professor,Earth
+204,m,geology,assistant professor,Earth
+205,f,geology,assistant professor,Earth
+206,m,geology,associate professor,Earth
+207,m,"geology, geochemistry",associate professor,Earth
+208,m,"hydrology, geology",associate professor,Earth
+209,m,"hydrology, geology, geophysics",associate professor,Earth
+210,m,geophysics,associate professor,Earth
+211,f,geology,associate professor,Earth
+212,m,geophysics,professor,Earth
+213,m,geology,professor,Earth
+214,f,"geochemistry, paleoclimate",professor,Earth
+215,m,geophysics,professor,Earth
+216,f,geomorphology,professor,Earth
+217,f,geomorphology,professor,Earth
+218,m,atmospheric dynamics,professor,Atmosphere
+219,m,atmospheric dynamics,professor,Atmosphere
+220,m,geochemistry,professor,Earth
+221,m,geophysics,professor,Earth
+222,f,"geophysics, plaleoclimate",assistant professor,Earth
+223,f,atmospheric chemistry,assistant professor,Atmosphere
+224,m,glaciology,assistant professor,
+225,m,geochemistry,assistant professor,Earth
+226,m,physical oceanography,associate professor,Ocean
+227,m,"biogeochemistry, climate dynamics",associate professor,Earth
+228,m,"geophysics, glaciology",associate professor,Earth
+229,f,geophysics,associate professor,Earth
+230,m,geology,professor,Earth
+231,m,"biogeochemistry, ecology",professor,Earth
+232,m,"geochemistry, paleoclimate",professor,Earth
+233,m,"biogeochemistry, biological oceanography",professor,Ocean
+234,f,"biogeochemistry, biological oceanography",professor,Ocean
+235,m,"atmospheric chemistry, climate dynamics",professor,Atmosphere
+236,m,geophysics,professor,Earth
+237,f,atmospheric chemistry,professor,Atmosphere
+238,m,geochemistry,professor,Earth
+239,m,physical oceanography,professor,Ocean
+240,m,biogeochemistry,professor,Earth
+241,m,geochemistry,professor,Earth
+242,f,"geology, geochemistry, paleoclimate",professor,Earth
+243,f,paleoclimate,professor,
+244,m,"geophysics, geochemistry",professor,Earth
+245,f,"biogeochemistry, chemical oceanography, biological oceanography",professor,Ocean
+246,f,"geochemistry, geology",professor,Earth
+247,m,geophysics,professor,Earth
+248,m,"geochemistry, geology, paleoclimate",professor,Earth
+249,f,geochemistry,professor,Earth
+250,f,"paleoclimate, marine geology",professor,Earth
+251,m,geophysics,professor,Earth
+252,f,geophysics,professor,Earth
+253,f,geophysics,professor,Earth
+255,m,"geophysics, hydrology, geology",assistant professor,Earth
+256,m,atmospheric dynamics,assistant professor,Atmosphere
+257,f,geochemistry,assistant professor,Earth
+258,m,climate dynamics,assistant professor,
+259,f,atmospheric dynamics,assistant professor,Atmosphere
+260,m,climate dynamics,associate professor,
+261,m,geochemistry,associate professor,Earth
+262,f,geophysics,associate professor,Earth
+263,f,geophysics,associate professor,Earth
+264,m,geophysics,professor,Earth
+265,m,paleontology,professor,
+266,m,geophysics,professor,Earth
+267,m,climate dynamics,professor,
+268,m,"biogeochemistry, geochemistry",professor,Earth
+269,m,biological oceanography,professor,Ocean
+270,m,atmospheric dynamics,professor,Atmosphere
+271,f,hydrology,professor,
+272,f,climate dynamics,professor,
+273,f,geology,professor,Earth
+274,m,geophysics,professor,Earth
+275,f,atmospheric dynamics,professor,Atmosphere
+276,f,ecology,professor,
+277,f,physical oceanography,assistant professor,Ocean
+278,f,"climate dynamics, geochemistry, paleoclimate",assistant professor,Earth
+279,m,"glaciology, physical oceanography",assistant professor,Ocean
+280,f,"biogeochemistry, chemical oceanography",assistant professor,Ocean
+281,m,climate dynamics,assistant professor,
+282,m,atmospheric dynamics,assistant professor,Atmosphere
+283,m,"atmospheric dynamics, climate dynamics",associate professor,Atmosphere
+284,m,climate dynamics,associate professor,
+285,f,atmospheric dynamics,associate professor,Atmosphere
+286,m,"climate dynamics, biological oceanography, geopolitics/impacts",associate professor,Ocean
+287,f,atmospheric chemistry,associate professor,Atmosphere
+288,f,"biogeochemistry, chemical oceanography, biological oceanography",associate professor,Ocean
+289,f,atmospheric dynamics,associate professor,Atmosphere
+290,m,atmospheric dynamics,associate professor,Atmosphere
+291,f,"physical oceanography, climate dynamics",professor,Ocean
+292,m,atmospheric dynamics,professor,Atmosphere
+293,f,atmospheric chemistry,professor,Atmosphere
+294,m,atmospheric chemistry,professor,Atmosphere
+295,m,atmospheric chemistry,professor,Atmosphere
+296,m,atmospheric dynamics,professor,Atmosphere
+297,m,atmospheric dynamics,professor,Atmosphere
+298,f,"geochemistry, hydrology, education",assistant professor,Earth
+299,f,"geology, geophysics",assistant professor,Earth
+300,f,planetary science,assistant professor,Planet
+301,m,"geochemistry, geobiology",assistant professor,Earth
+302,m,"paleoclimate, climate dynamics, geochemistry",assistant professor,Earth
+303,m,"biogeochemistry, geochemistry, geobiology, paleoclimate, paleoceanography",assistant professor,Ocean
+304,m,"paleobiology, paleontology",assistant professor,
+305,f,"geochemistry, paleoclimate",assistant professor,Earth
+306,m,geology,assistant professor,Earth
+307,m,"geophysics, gemorphology",assistant professor,Earth
+308,m,geology,associate professor,Earth
+309,f,"geomorphology, geology",associate professor,Earth
+310,m,geobiology,associate professor,Earth
+311,m,geomorphology,professor,Earth
+312,f,"geochemistry, hydology",professor,Earth
+313,m,geology,professor,Earth
+314,f,"ecology, geobiology, paleobiology",professor,Earth
+315,f,paleontology,professor,
+316,m,geochemistry,professor,Earth
+317,f,geology,professor,Earth
+318,f,"hydrology, geology",professor,Earth
+319,m,"planetary science, geology, geomorphology, geobiology",professor,Planet
+320,m,"planetary science, geobiology, geology",professor,Planet
+321,m,"geology, geophysics",professor,Earth
+322,f,geology,professor,Earth
+323,m,"biogeochemistry, physical oceanography, chemical oceanography, biological oceanography, paleoceanography",professor,Ocean
+324,m,"paleoclimate, geology",professor,Earth
+325,m,geochemistry,professor,Earth
+326,m,geology,professor,Earth
+327,m,"geology, geophysics",professor,Earth
+328,f,geophysics,professor,Earth
+329,m,"biogeochemistry, hydrology",professor,Earth
+330,m,"geology, geochemistry",professor,Earth
+331,f,geobiology,professor,Earth
+332,f,geophysics,professor,Earth
+333,m,geomorphology,professor,Earth
+334,m,geology,professor,Earth
+335,m,geochemistry,professor,Earth
+336,f,"climate dynamics, geochemistry, paleoclimate",assistant professor,Earth
+337,m,"biological oceanography, ecology",assistant professor,Ocean
+338,m,"atmospheric dynamics, climate dynamics",assistant professor,Atmosphere
+339,f,"geochemistry, geology",assistant professor,Earth
+340,f,atmospheric dynamics,assistant professor,Atmosphere
+341,m,"geochemistry, biogeochemistry, paleoclimate",assistant professor,Earth
+342,m,atmospheric dynamics,associate professor,Atmosphere
+343,f,"biological oceanography, ecology",associate professor,Ocean
+344,f,"biological oceanography, resource management",associate professor,Ocean
+345,m,atmospheric chemistry,associate professor,Atmosphere
+346,f,"biogeochemistry, geochemistry",associate professor,Earth
+347,f,"biological oceanography, ecology",associate professor,Ocean
+348,m,geology,associate professor,Earth
+349,m,"biogeochemistry, paleoclimate, geochemistry, paleoceanography",associate professor,Ocean
+350,m,biogeochemistry,associate professor,Earth
+351,m,"biological oceanography, biogeochemistry",associate professor,Ocean
+352,m,"atmospheric dynamics, climate dynamics",associate professor,Atmosphere
+353,m,"atmospheric dynamics, climate dynamics",associate professor,Atmosphere
+354,m,atmospheric dynamics,professor,Atmosphere
+355,m,atmospheric dynamics,professor,Atmosphere
+356,m,"chemical oceanography, geology, geochemistry",professor,Ocean
+357,m,"climate dynamics, physical oceanography",professor,Ocean
+358,m,"climate dynamics, physical oceanography",professor,Ocean
+359,m,physical oceanography,professor,Ocean
+360,m,atmospheric dynamics,professor,Atmosphere
+361,m,atmospheric dynamics,professor,Atmosphere
+362,m,ecology,professor,
+363,m,"geochemistry, planetary science",professor,Planet
+364,m,atmospheric dynamics,professor,Atmosphere
+365,m,biological oceanography,professor,Ocean
+366,m,climate dynamics,professor,
+367,f,atmospheric dynamics,professor,Atmosphere
+368,m,atmospheric dynamics,professor,Atmosphere
+369,m,geochemistry,professor,Earth
+370,m,geology,professor,Earth
+371,f,"geochemistry, paleoclimate, biogeochemistry",professor,Earth
+372,m,hydrology,professor,
+375,f,glaciology,assistant professor,
+376,m,atmospheric dynamics,assistant professor,Atmosphere
+377,f,atmospheric chemistry,assistant professor,Atmosphere
+378,m,geology,assistant professor,Earth
+379,m,atmospheric chemistry,assistant professor,Atmosphere
+380,f,"ecology, paleobiology",assistant professor,
+381,m,geophysics,assistant professor,Earth
+382,m,"biogeochemistry, chemical oceanography, atmospheric chemistry, geochemistry",assistant professor,Ocean
+383,f,geology,assistant professor,Earth
+384,m,glaciology,assistant professor,
+385,f,"biogeochemistry, geobiology, geochemistry",associate professor,Earth
+386,m,"physical oceanography, biogeochemistry",associate professor,Ocean
+387,m,atmospheric chemistry,associate professor,Atmosphere
+388,f,"geophysics, geobiology, glaciology",associate professor,Earth
+389,m,"planetary science, geophysics",associate professor,Planet
+390,f,"biogeochemistry, chemical oceanography, geochemistry",associate professor,Ocean
+391,m,"planetary science, geophysics",associate professor,Planet
+392,f,physical oceanography,professor,Ocean
+393,m,atmospheric dynamics,professor,Atmosphere
+394,f,"biogeochemistry, paleoclimate, geochemistry",professor,Earth
+395,m,"atmospheric dynamics, hydrology",professor,Atmosphere
+396,m,"climate dynamics, physical oceanography",professor,Ocean
+397,m,geophysics,professor,Earth
+398,m,atmospheric chemistry,professor,Atmosphere
+399,m,"biogeochemistry, geochemistry, atmospheric chemistry",professor,Atmosphere
+400,f,physical oceanography,professor,Ocean
+401,f,"paleoceanography, geochemistry",professor,Ocean
+402,m,geophysics,professor,Earth
+403,m,geophysics,professor,Earth
+404,f,atmospheric chemistry,professor,Atmosphere
+405,m,"geochemistry, geobiology, biogeochemistry",professor,Earth
+406,m,atmospheric chemistry,professor,Atmosphere
+407,m,atmospheric chemistry,professor,Atmosphere
+408,f,geophysics,assistant professor,Earth
+409,f,planetary science,assistant professor,Planet
+410,m,"planetary science, geophysics",assistant professor,Planet
+411,f,"atmospheric dynamics, climate dynamics",assistant professor,Atmosphere
+412,m,"atmospheric dynamics, hydrology",assistant professor,Atmosphere
+413,m,atmospheric chemistry,professor,Atmosphere
+414,m,geophysics,professor,Earth
+415,m,atmospheric dynamics,professor,Atmosphere
+416,m,climate dynamics,professor,
+417,f,geophysics,professor,Earth
+418,m,atmospheric chemistry,professor,Atmosphere
+419,m,geochemistry,professor,Earth
+420,m,"geochemistry, geobiology",professor,Earth
+421,m,"geology, geobiology, paleontology",professor,Earth
+422,m,atmospheric dynamics,professor,Atmosphere
+423,m,geochemistry,professor,Earth
+424,m,atmospheric chemistry,professor,Atmosphere
+425,m,geophysics,professor,Earth
+426,m,geophysics,professor,Earth
+427,f,"geochemistry, biological oceanography, chemical oceanography",professor,Ocean
+428,m,"geophysics, glaciology, hydrology",professor,Earth
+429,m,"climate dynamics, geochemistry",professor,Earth
+430,m,geology,professor,Earth
+431,m,"climate dynamics, physical oceanography",professor,Ocean
+432,m,atmospheric chemistry,professor,Atmosphere
+433,m,climate dynamics,assistant professor,
+434,m,climate dynamics,assistant professor,
+435,m,atmospheric dynamics,assistant professor,Atmosphere
+436,f,geochemistry,assistant professor,Earth
+437,m,"geology, geophysics",associate professor,Earth
+438,m,atmospheric dynamics,associate professor,Atmosphere
+439,m,paleontology,associate professor,
+440,m,geomorphology,associate professor,Earth
+441,m,"biogeochemistry, paleoclimate, geochemistry",professor,Earth
+442,m,geophysics,professor,Earth
+443,f,"geobiology, paleoclimate",professor,Earth
+444,m,geophysics,professor,Earth
+445,m,paleontology,professor,
+446,m,"geology, geobiology ",professor,Earth
+447,m,geochemistry,professor,Earth
+448,f,ecology,assistant professor,
+449,f,"geochemistry, geobiology, geology, biogeochemistry",assistant professor,Earth
+450,f,"atmospheric chemistry, planetary science",assistant professor,Planet
+451,m,"geology, planetary science",assistant professor,Planet
+452,f,geology,assistant professor,Earth
+453,m,geology,assistant professor,Earth
+454,f,geology,assistant professor,Earth
+455,m,"climate dynamics, hydrology",associate professor,
+456,m,"biogeochemistry, physical oceanography",professor,Ocean
+457,m,physical oceanography,professor,Ocean
+458,m,planetary science,professor,Planet
+459,m,planetary science,professor,Planet
+460,f,"planetary science, geophysics",professor,Planet
+461,m,planetary science,professor,Planet
+462,m,"geochemistry, geobiology",professor,Earth
+463,m,atmospheric dynamics,professor,Atmosphere
+464,m,"geology, geomorphology",assistant professor,Earth
+465,f,geology,assistant professor,Earth
+466,f,geophysics,assistant professor,Earth
+467,f,"geomorphology, geology",assistant professor,Earth
+468,m,"geochemistry, paleoclimate",assistant professor,Earth
+469,m,"paleoclimate, paleoceanography",associate professor,Ocean
+470,m,"geochemistry, planetary science",associate professor,Planet
+471,f,geophysics,associate professor,Earth
+472,m,geology,associate professor,Earth
+473,m,geochemistry,professor,Earth
+474,m,"geology, marine geology",professor,Earth
+475,m,geology,professor,Earth
+476,m,geology,professor,Earth
+477,m,climate dynamics,professor,
+478,f,geology,professor,Earth
+479,m,"geology, paleoclimate, geochemistry",professor,Earth
+480,m,geology,professor,Earth
+481,m,"geophysics, geology",professor,Earth
+482,m,"geology, geochemistry, geophysics",professor,Earth
+483,f,"geobiology, paleoclimate, geology",professor,Earth
+484,f,"hydrology, geochemistry, ecology",professor,Earth
+485,f,"biogeochemistry, ecology",assistant professor,Earth
+486,m,ecology,assistant professor,
+487,f,ecology,assistant professor,
+488,m,"hydrology, biological oceanography",assistant professor,Ocean
+489,m,ecology,assistant professor,
+490,m,"biogeochemistry, geomorphology, geology",assistant professor,Earth
+491,m,ecology,assistant professor,
+492,m,"climate dynamics, hydrology",assistant professor,
+493,f,"ecology, ocean acoustics",assistant professor,Ocean
+494,m,physical oceanography,associate professor,Ocean
+495,m,"biogeochemistry, chemical oceanography",associate professor,Ocean
+496,m,"biogeochemistry, resource management",associate professor,Earth
+497,m,"geology, marine geology, geomorphology",associate professor,Earth
+498,m,"physical oceanography, biogeochemistry",associate professor,Ocean
+499,m,ecology,associate professor,
+500,f,"ecology, biogeochemistry",associate professor,Earth
+501,m,"biogeochemistry, chemical oceanography, hydrology",associate professor,Ocean
+502,f,"ecology, biological oceanography",professor,Ocean
+503,m,"ecology, biological oceanography, ocean acoustics",professor,Ocean
+504,m,"ecology, marine biology",professor,Ocean
+505,m,"ecology, chemical oceanography, biological oceanography",professor,Ocean
+506,m,"biogeochemistry, chemical oceanography, biological oceanography",professor,Ocean
+507,m,"biological oceanography, ecology",professor,Ocean
+508,m,physical oceanography,professor,Ocean
+509,m,biogeochemistry,professor,Earth
+510,m,"ecology, paleobiology, geobiology",professor,Earth
+511,f,ecology,professor,
+512,m,"atmospheric dynamics, climate dynamics",professor,Atmosphere
+513,m,"biological oceanography, ecology, resource management",professor,Ocean
+514,m,"biogeochemistry, ecology",professor,Earth
+515,f,"physical oceanography, biological oceanography",professor,Ocean
+516,m,biogeochemistry,professor,Earth
+517,m,"biogeochemistry, chemical oceanography, biological oceanography",assistant professor,Ocean
+518,f,"geology, geochemistry, geobiology",assistant professor,Earth
+519,f,geophysics,assistant professor,Earth
+520,m,atmospheric dynamics,assistant professor,Atmosphere
+521,m,planetary science,assistant professor,Planet
+522,m,geophysics,assistant professor,Earth
+523,m,"glaciology, geophysics",assistant professor,Earth
+524,m,geology,assistant professor,Earth
+525,f,"geobiology, biogeochemistry",associate professor,Earth
+526,m,geobiology,associate professor,Earth
+527,m,geology,associate professor,Earth
+528,m,paleoclimate,associate professor,
+529,m,"atmospheric dynamics, climate dynamics",associate professor,Atmosphere
+530,m,"biogeochemistry, chemical oceanography, geobiology, geochemistry",associate professor,Ocean
+531,m,planetary science,professor,Planet
+532,m,"chemical oceanography, geochemistry",professor,Ocean
+533,m,atmospheric dynamics,professor,Atmosphere
+534,m,physical oceanography,professor,Ocean
+535,m,physical oceanography,professor,Ocean
+536,m,"biogeochemistry, chemical oceanography, biological oceanography",professor,Ocean
+537,m,geology,professor,Earth
+538,m,geophysics,professor,Earth
+539,m,geophysics,professor,Earth
+540,m,physical oceanography,professor,Ocean
+541,m,geophysics,professor,Earth
+542,m,"geomorphology, geology",professor,Earth
+543,m,"atmospheric chemistry, climate dynamics, biogeochemistry",professor,Atmosphere
+544,f,physical oceanography,professor,Ocean
+545,m,"geophysics, biogeochemistry, geobiology",professor,Earth
+546,f,"geophysics, geology",professor,Earth
+547,f,planetary science,professor,Planet
+548,f,atmospheric chemistry,professor,Atmosphere
+549,m,"geobiology, biogeochemistry",professor,Earth
+550,m,geophysics,professor,Earth
+551,m,"planetary science, geophysics",professor,Planet
+552,m,planetary science,professor,Planet
+553,f,geophysics,professor,Earth
+554,f,"hydrology, glaciology",assistant professor,
+555,m,physical oceanography,assistant professor,Ocean
+556,m,"paleoclimate, geology, paleobiology, geochemistry",assistant professor,Earth
+557,f,"climate dynamics, atmospheric dynamics, physical oceanography",assistant professor,Ocean
+558,m,"ecology, chemical oceanography, biological oceanography",assistant professor,Ocean
+559,f,geophysics,assistant professor,Earth
+560,m,atmospheric dynamics,associate professor,Atmosphere
+561,m,"geology, planetary science",associate professor,Planet
+562,m,"biogeochemistry, geochemistry",associate professor,Earth
+563,f,"ecology, biogeochemistry",associate professor,Earth
+564,m,"geomorphology, paleoclimate, geomorphology",associate professor,Earth
+565,m,"atmospheric chemistry, geochemistry, biogeochemistry, ecology",professor,Atmosphere
+566,m,geophysics,professor,Earth
+567,m,ecology,professor,
+568,m,"hydrology, geology",professor,Earth
+569,m,paleontology,professor,
+570,m,physical oceanography,professor,Ocean
+571,m,atmospheric dynamics,professor,Atmosphere
+572,f,"geology, land surface processes",professor,Earth
+573,m,geopolitics/impacts,professor,Earth
+574,m,marine geology,professor,Earth
+575,m,education,professor,
+576,m,climate dynamics,professor,
+577,f,"gis/engineering, ecology, resource management",professor,
+578,m,"geology, geomorphology",professor,Earth
+579,m,atmospheric dynamics,professor,Atmosphere
+580,m,atmospheric chemistry,professor,Atmosphere
+581,m,atmospheric dynamics,professor,Atmosphere
+582,m,"hydrology, geology",professor,Earth
+583,m,atmospheric dynamics,professor,Atmosphere
+584,f,atmospheric dynamics,professor,Atmosphere
+585,f,geology,assistant professor,Earth
+586,m,geophysics,assistant professor,Earth
+587,f,paleontology,assistant professor,
+588,f,"hydrology, ecology, resource management",assistant professor,
+589,f,"geophysics, marine geology",associate professor,Earth
+590,m,biogeochemistry,associate professor,Earth
+591,m,geochemistry,associate professor,Earth
+592,m,geology,associate professor,Earth
+593,f,"geochemistry, biogeochemistry, paleoceanography",associate professor,Ocean
+594,m,"geopolitics/impacts, resource management, hydrology",associate professor,Earth
+595,m,"hydrology, geology",associate professor,Earth
+596,m,"geophysics, geology",associate professor,Earth
+597,f,"hydrology, geology",associate professor,Earth
+598,m,"hydrology, geophysics",professor,Earth
+599,m,"geology, paleontology",professor,Earth
+600,m,geology,professor,Earth
+601,m,"geophysics, geology",professor,Earth
+602,f,"geochemistry, hydrology, geology",professor,Earth
+603,m,geochemistry,professor,Earth
+604,m,hydrology,professor,
+605,f,"biogeochemistry, paleoceanography, chemical oceanography",professor,Ocean
+606,m,glaciology,professor,
+607,m,paleontology,professor,
+608,m,geobiology,professor,Earth
+609,m,"hydrology, geology, geochemistry",professor,Earth
+610,f,geology,professor,Earth
+611,m,"hydrology, geology",professor,Earth
+612,m,geophysics,professor,Earth
+613,m,"paleoclimate, glaciology",professor,
+614,f,geopolitics/impacts,assistant professor,Earth
+615,f,"geopolitics/impacts, sustainability",assistant professor,Earth
+616,f,geopolitics/impacts,assistant professor,Earth
+617,m,atmospheric dynamics,associate professor,Atmosphere
+618,m,atmospheric dynamics,associate professor,Atmosphere
+619,m,"climate dynamics, paleoclimate",associate professor,
+620,m,university administration,associate professor,
+621,m,geopolitics/impacts,associate professor,Earth
+622,m,"land surface processes, gis/engineering",professor,
+623,m,geopolitics/impacts,professor,Earth
+624,f,geopolitics/impacts,professor,Earth
+625,m,geopolitics/impacts,professor,Earth
+626,m,gis/engineering,professor,
+627,m,climate dynamics,professor,
+628,f,geopolitics/impacts,professor,Earth
+629,m,climate dynamics,professor,
+630,f,geopolitics/impacts,professor,Earth
+631,m,gis/engineering,professor,
+632,f,paleoclimate,professor,
+633,f,"land surface processes, gis/engineering",professor,
+634,m,gis/engineering,professor,
+635,m,"hydrology, climate dynamics",professor,
+636,f,geopolitics/impacts,professor,Earth
+637,m,geopolitics/impacts,professor,Earth
+638,m,"geopolitics/impacts, sustainability",professor,Earth
+640,m,"biogeochemistry, geochemistry",assistant professor,Earth
+641,m,paleoclimate,assistant professor,
+642,f,geology,assistant professor,Earth
+643,f,"geochemistry, geobiology",assistant professor,Earth
+644,f,ecology,assistant professor,
+645,m,physical oceanography,assistant professor,Ocean
+646,m,"hydrology, climate dynamics",assistant professor,
+647,m,geophysics,assistant professor,Earth
+648,f,geochemistry,assistant professor,Earth
+649,m,"hydrology, climate dynamics",assistant professor,
+650,m,"geobiology, ecology",assistant professor,Earth
+651,m,ecology,assistant professor,
+652,f,"paleoceanography, physical oceanography",assistant professor,Ocean
+653,m,ecology,assistant professor,
+654,m,physical oceanography,assistant professor,Ocean
+655,m,geopolitics/impacts,assistant professor,Earth
+662,f,"ecology, biological oceanography",associate professor,Ocean
+663,f,physical oceanography,associate professor,Ocean
+664,f,"physical oceanography, glaciology",associate professor,Ocean
+665,f,"biogeochemistry, chemical oceanography",associate professor,Ocean
+666,m,geomorphology,associate professor,Earth
+667,m,"geomorphology, hydrology",associate professor,Earth
+668,m,"atmospheric dynamics, physical oceanography",associate professor,Ocean
+669,f,glaciology,associate professor,
+670,f,climate dynamics,associate professor,
+671,f,physical oceanography,associate professor,Ocean
+672,f,"hydrology, ecology, geology",associate professor,Earth
+673,m,"biogeochemistry, chemical oceanography, ecology, biological oceanography",associate professor,Ocean
+674,m,"climate dynamics, atmospheric dynamics",associate professor,Atmosphere
+679,m,atmospheric dynamics,professor,Atmosphere
+680,m,"biological oceanography, physical oceanography",professor,Ocean
+681,m,geopolitics/impacts,professor,Earth
+682,m,"paleoclimate, geochemistry",professor,Earth
+683,m,"resource management, geopolitics/impacts",professor,Earth
+684,m,"biological oceanography, ecology",professor,Ocean
+685,m,glaciology,professor,
+686,m,"geobiology, ecology",professor,Earth
+687,f,resource management,professor,
+688,m,sustainability,professor,
+689,m,ecology,professor,
+690,m,"geomorphology, geology",professor,Earth
+691,m,atmospheric dynamics,professor,Atmosphere
+692,m,physical oceanography,professor,Ocean
+693,m,"geology, geochemistry",professor,Earth
+694,m,"physical oceanography, geophysics",professor,Ocean
+695,f,ecology,professor,
+696,m,"geology, marine geology, geophysics",professor,Earth
+697,m,"biogeochemistry, chemical oceanography",professor,Ocean
+698,m,geochemistry,professor,Earth
+699,f,resource management,professor,
+700,m,hydrology,professor,
+701,m,chemical oceanography,professor,Ocean
+702,m,physical oceanography,professor,Ocean
+703,m,"geophysics, geochemistry",professor,Earth
+704,m,resource management,professor,
+705,f,"geomorphology, hydrology",professor,Earth
+706,m,geochemistry,professor,Earth
+707,m,"geochemistry, geology",professor,Earth
+708,m,"physical oceanography, ocean acoustics",professor,Ocean
+709,m,physical oceanography,professor,Ocean
+710,m,"biogeochemistry, biological oceanography",professor,Ocean
+711,f,"biogeochemistry, ecology",professor,Earth
+712,m,physical oceanography,professor,Ocean
+713,m,"geology, geomorphology",professor,Earth
+714,m,"paleoclimate, geochemistry, paleoceanography",professor,Ocean
+715,m,climate dynamics,professor,
+716,m,physical oceanography,professor,Ocean
+717,m,geophysics,professor,Earth
+718,m,physical oceanography,professor,Ocean
+719,f,physical oceanography,professor,Ocean
+720,f,"biogeochemistry, chemical oceanography",professor,Ocean
+721,m,geomorphology,professor,Earth
+722,m,physical oceanography,professor,Ocean
+723,f,ecology,professor,
+724,m,climate dynamics,professor,
+725,m,geophysics,professor,Earth
+726,m,"physical oceanography, gis/engineering",professor,Ocean
+727,m,physical oceanography,professor,Ocean
+728,m,physical oceanography,professor,Ocean
+729,m,gis/engineering,professor,
+730,f,biological oceanography,professor,Ocean
+731,m,"paleoclimate, geology",professor,Earth
+732,m,"geochemistry, geology",professor,Earth
+733,f,"geochemistry, geobiology",professor,Earth
+734,f,geophysics,professor,Earth
+735,m,"biogeochemistry, geochemistry",professor,Earth
+736,m,geopolitics/impacts,professor,Earth
+739,m,"biogeochemistry, chemical oceanography, physical oceanography",professor,Ocean
+741,m,atmospheric dynamics,assistant professor,Atmosphere
+742,m,atmospheric dynamics,assistant professor,Atmosphere
+743,f,"climate dynamics, atmospheric dynamics",assistant professor,Atmosphere
+744,f,"atmospheric dynamics, climate dynamics",assistant professor,Atmosphere
+745,f,atmospheric dynamics,assistant professor,Atmosphere
+746,m,atmospheric dynamics,assistant professor,Atmosphere
+747,m,atmospheric dynamics,associate professor,Atmosphere
+748,m,atmospheric dynamics,associate professor,Atmosphere
+749,f,atmospheric dynamics,associate professor,Atmosphere
+750,m,"atmospheric dynamics, planetary science",professor,Planet
+751,m,atmospheric chemistry,professor,Atmosphere
+752,m,atmospheric dynamics,professor,Atmosphere
+753,m,"atmospheric dynamics, biogeochemistry, geochemistry",professor,Atmosphere
+754,f,atmospheric dynamics,professor,Atmosphere
+755,m,climate dynamics,professor,
+756,m,"atmospheric dynamics, atmospheric chemistry",professor,Atmosphere
+757,m,atmospheric dynamics,professor,Atmosphere
+758,m,"atmospheric chemistry, biogeochemistry, geochemistry",professor,Atmosphere
+759,m,"atmospheric dynamics, planetary science",professor,Planet
+760,m,geopolitics/impacts,professor,Earth
+761,f,atmospheric dynamics,professor,Atmosphere
+762,m,"atmospheric dynamics, climate dynamics",professor,Atmosphere
+763,f,atmospheric dynamics,professor,Atmosphere
+764,f,atmospheric dynamics,professor,Atmosphere
+765,m,atmospheric dynamics,professor,Atmosphere
+766,m,atmospheric dynamics,professor,Atmosphere
+767,m,atmospheric dynamics,professor,Atmosphere
+768,m,biogeochemistry,professor,Earth
+769,f,geobiology,assistant professor,Earth
+770,m,geomorphology,assistant professor,Earth
+771,m,geophysics,assistant professor,Earth
+772,f,geochemistry,assistant professor,Earth
+773,f,paleoclimate,assistant professor,
+774,m,paleoclimate,assistant professor,
+775,f,"geochemistry, biogeochemistry, paleoceanography",assistant professor,Ocean
+776,m,geology,assistant professor,Earth
+777,m,geochemistry,assistant professor,Earth
+778,m,geophysics,assistant professor,Earth
+779,m,"geochemistry, paleoclimate",associate professor,Earth
+780,m,geology,associate professor,Earth
+781,m,geophysics,associate professor,Earth
+782,f,"geobiology, biogeochemistry",associate professor,Earth
+783,f,geophysics,associate professor,Earth
+784,m,glaciology,professor,
+785,m,geophysics,professor,Earth
+786,m,glaciology,professor,
+787,m,"paleontology, paleoceanography, marine geology, geobiology",professor,Ocean
+788,f,"geochemistry, biogeochemistry",professor,Earth
+789,m,geophysics,professor,Earth
+790,m,geology,professor,Earth
+791,f,"biogeochemistry, geochemistry, paleoclimate, geobiology",professor,Earth
+792,m,geophysics,professor,Earth
+793,f,geochemistry,professor,Earth
+794,m,geochemistry,professor,Earth
+795,m,geobiology,professor,Earth
+796,m,"atmospheric dynamics, paleoclimate, planetary science",professor,Planet
+797,m,climate dynamics,professor,
+798,m,"geophysics, geology",professor,Earth
+799,m,geophysics,professor,Earth
+800,m,geobiology,professor,Earth
+801,m,"geobiology, paleoclimate",professor,Earth
+802,m,atmospheric dynamics,associate professor,Atmosphere
+803,m,geophysics,professor,Earth
+804,m,"climate dynamics, geopolitics/impacts",professor,Earth
+805,f,biogeochemistry,assistant professor,Earth
+806,f,geochemistry,professor,Earth
+807,f,"geophysics, glaciology",assistant professor,Earth
+808,f,geochemistry,assistant professor,Earth
+809,m,"geology, paleocliamte",associate professor,Earth
+810,m,geology,associate professor,Earth
+811,m,geophysics,professor,Earth
+812,m,"geology, paleoclimate",professor,Earth
+813,m,geochemistry,professor,Earth
+814,m,geochemistry,professor,Earth
+815,m,geochemistry,professor,Earth
+816,m,geophysics,professor,Earth
+817,m,"geochemistry, paleoclimate",professor,Earth
+818,m,geophysics,professor,Earth
+819,m,atmospheric dynamics,professor,Atmosphere
+820,m,atmospheric dynamics,professor,Atmosphere
+821,f,planetary science,assistant professor,Planet
+822,m,atmospheric dynamics,assistant professor,Atmosphere
+823,m,atmospheric dynamics,assistant professor,Atmosphere
+824,m,geophysics,assistant professor,Earth
+825,m,geology,assistant professor,Earth
+826,f,geophysics,assistant professor,Earth
+827,m,"hydrology, geology",assistant professor,Earth
+828,f,"planetary science, geobiology",assistant professor,Planet
+829,m,"geophysics, planetary science",assistant professor,Planet
+830,f,atmospheric dynamics,assistant professor,Atmosphere
+831,f,planetary science,assistant professor,Planet
+832,f,geochemistry,assistant professor,Earth
+833,m,atmospheric dynamics,assistant professor,Atmosphere
+834,f,biogeochemistry,assistant professor,Earth
+835,m,geophysics,assistant professor,Earth
+836,m,geophysics,associate professor,Earth
+837,m,atmospheric dynamics,associate professor,Atmosphere
+838,f,"geology, planetary science",associate professor,Planet
+839,m,planetary science,associate professor,Planet
+840,m,geology,associate professor,Earth
+841,m,biogeochemistry,associate professor,Earth
+842,m,planetary science,associate professor,Planet
+843,f,atmospheric dynamics,associate professor,Atmosphere
+844,m,atmospheric chemistry,professor,Atmosphere
+845,m,biogeochemistry,professor,Earth
+846,f,geophysics,professor,Earth
+847,m,"geophysics, planetary science",professor,Planet
+848,m,geomorphology,professor,Earth
+849,m,climate dynamics,professor,
+850,m,"geochemistry, ecology (soil science)",professor,Earth
+851,m,geology,professor,Earth
+852,m,geology,professor,Earth
+853,m,geology,professor,Earth
+854,m,education,professor,
+855,m,climate dynamics,professor,
+856,m,"geochemistry, geophysics",professor,Earth
+859,f,"paleoclimate, climate dynamics",assistant professor,
+860,f,geology,assistant professor,Earth
+861,m,"geomorphology, geology",assistant professor,Earth
+862,f,geology,assistant professor,Earth
+863,m,"geochemistry, geobiology",assistant professor,Earth
+864,m,"geochemistry, atmospheric chemistry, chemical oceanography",assistant professor,Ocean
+865,f,geophysics,associate professor,Earth
+866,m,geophysics,professor,Earth
+867,m,"geochemistry, geology",professor,Earth
+868,m,geophysics,professor,Earth
+869,m,"paleoceanography, marine geology",professor,Ocean
+870,m,geophysics,professor,Earth
+871,m,geophysics,professor,Earth
+872,m,geophysics,professor,Earth
+873,f,biogeochemistry,professor,Earth
+874,f,geology,professor,Earth
+875,m,geophysics,professor,Earth
+876,m,geophysics,professor,Earth
+877,f,geochemistry,assistant professor,Earth
+878,m,planetary science,assistant professor,Planet
+879,f,planetary science,associate professor,Planet
+880,m,"geochemistry, chemical oceanography",associate professor,Ocean
+881,f,"paleontology, geobiology",professor,Earth
+882,m,"geochemistry, biogeochemistry",professor,Earth
+883,f,"hydrology, geology",professor,Earth
+884,m,geology,professor,Earth
+885,m,geochemistry,professor,Earth
+886,m,geochemistry,professor,Earth
+887,m,geology,professor,Earth
+888,m,"climate dynamics, geobiology",professor,Earth
+889,m,geophysics,professor,Earth
+890,m,paleontology,professor,
+891,m,"paleoclimate, geology",professor,Earth
+892,m,"geology, geophysics",professor,Earth
+893,f,geology,professor,Earth
+894,m,"chemical oceanography, paleoclimate, biogeochemistry",professor,Ocean
+895,m,"geology, geochemistry, paleontology",professor,Earth
+896,m,"climate dynamics, paleoceanography, geochemistry",professor,Ocean
+897,m,"biogeochemistry, geochemistry, geobiology",professor,Earth
+898,m,"biological oceanography, physical oceanography",assistant professor,Ocean
+899,f,"biological oceanography, chemical oceanography",assistant professor,Ocean
+900,f,physical oceanography,assistant professor,Ocean
+901,f,"biological oceanography, physical oceanography",associate professor,Ocean
+902,f,education,associate professor,
+903,f,biological oceanography,associate professor,Ocean
+904,f,"chemical oceanography, marine geology, geochemistry",associate professor,Ocean
+905,m,"biological oceanography, biogeochemistry",professor,Ocean
+906,m,biological oceanography,professor,Ocean
+907,m,"physical oceanography, biogeochemistry",professor,Ocean
+908,m,biological oceanography,professor,Ocean
+909,m,biological oceanography,professor,Ocean
+910,m,"biological oceanography, physical oceanography",professor,Ocean
+911,m,biological oceanography,professor,Ocean
+912,m,"biological oceanography, physical oceanography",professor,Ocean
+913,m,biological oceanography,professor,Ocean
+914,m,biological oceanography,professor,Ocean
+915,m,"chemical oceanography, marine geology",professor,Ocean
+916,m,"chemical oceanography, marine geology",professor,Ocean
+917,f,"chemical oceanography, marine geology, geochemistry",professor,Ocean
+918,m,physical oceanography,professor,Ocean
+919,m,physical oceanography,professor,Ocean
+920,m,physical oceanography,professor,Ocean
+921,m,"climate dynamics, sustainability",professor,
+922,m,physical oceanography,associate professor,Ocean
+923,f,geopolitics/impacts,professor,Earth
+924,f,"geochemistry, biogeochemistry",associate professor,Earth
+925,f,"hydrology, ecology",assistant professor,
+926,f,geobiology,assistant professor,Earth
+927,f,atmospheric dynamics,assistant professor,Atmosphere
+928,f,atmospheric dynamics,assistant professor,Atmosphere
+929,f,sustainability,assistant professor,
+930,m,geopolitics/impacts,associate professor,Earth
+931,m,"geopolitics/impacts, ecology",associate professor,Earth
+932,f,geobiology,associate professor,Earth
+934,m,"biological oceanography, biogeochemistry",professor,Ocean
+935,m,"atmospheric dynamics, climate dynamics",professor,Atmosphere
+936,m,"biogeochemistry, geochemistry, chemical oceanography",professor,Ocean
+937,m,"biogeochemistry, geochemistry, geobiology",professor,Earth
+938,m,"biogeochemistry, ecology, geochemistry",professor,Earth
+939,m,"hydrology, geology, resource management",professor,Earth
+940,m,geopolitics/impacts,professor,Earth
+941,f,sustainability,professor,
+944,m,geomorphology,assistant professor,Earth
+945,m,geobiology,assistant professor,Earth
+946,f,geology,assistant professor,Earth
+947,f,geology,assistant professor,Earth
+948,m,geobiology,assistant professor,Earth
+949,f,geomorphology,associate professor,Earth
+950,m,gis/engineering,professor,
+951,m,geochemistry,professor,Earth
+952,m,geology,professor,Earth
+953,m,geology,professor,Earth
+954,m,geology,professor,Earth
+955,m,geobiology,professor,Earth
+956,m,geology,professor,Earth
+957,f,geology,professor,Earth
+958,f,geology,professor,Earth
+959,m,"geobiology, geology",professor,Earth
+960,m,"geophysics, gis/engineering",professor,Earth
+961,f,geophysics,assistant professor,Earth
+962,m,glaciology,assistant professor,
+963,f,"geophysics, glaciology",assistant professor,Earth
+964,f,"geology, geophysics",assistant professor,Earth
+965,m,geophysics,associate professor,Earth
+966,f,"geochemistry, geophysics",associate professor,Earth
+967,m,geophysics,professor,Earth
+968,m,geophysics,professor,Earth
+969,m,geophysics,professor,Earth
+970,f,"hydrology, geophysics",professor,Earth
+971,m,"geophysics, gis/engineering",professor,Earth
+972,m,geophysics,professor,Earth
+973,f,geochemistry,assistant professor,Earth
+974,m,geochemistry,assistant professor,Earth
+975,m,geophysics,assistant professor,Earth
+976,m,geophysics,associate professor,Earth
+977,m,"geology, planetary science",associate professor,Planet
+978,f,geochemistry,associate professor,Earth
+979,f,"geology, planetary science",associate professor,Planet
+980,m,geophysics,professor,Earth
+981,m,planetary science,professor,Planet
+982,m,geophysics,professor,Earth
+983,m,geophysics,professor,Earth
+984,m,"geochemistry, geology, planetary science",professor,Planet
+985,f,"planetary science, geology",professor,Planet
+986,m,geology,professor,Earth
+987,m,geochemistry,professor,Earth
+988,m,geochemistry,professor,Earth
+989,m,"geochemistry, hydrology, geology",professor,Earth
+990,m,geophysics,professor,Earth
+991,m,geophysics,professor,Earth
+992,m,"biogeochemistry, geochemistry, chemical oceanography",assistant professor,Ocean
+993,m,physical oceanography,assistant professor,Ocean
+994,m,sustainability,assistant professor,
+995,m,atmospheric dynamics,assistant professor,Atmosphere
+996,f,sustainability,assistant professor,
+997,m,gis/engineering,assistant professor,
+998,m,"geopolitics/impacts, sustainability",assistant professor,Earth
+999,f,"ecology, biological oceanography",assistant professor,Ocean
+1000,f,"biogeochemistry, chemical oceanography, biological oceanography",assistant professor,Ocean
+1001,f,"ecology, sustainability",assistant professor,
+1002,f,"education, sustainability",associate professor,
+1003,m,"paleoclimate, paleoceanography, paleontology",associate professor,Ocean
+1004,m,biogeochemistry,associate professor,Earth
+1005,f,ecology,associate professor,
+1006,f,"atmospheric dynamics, climate dynamics",associate professor,Atmosphere
+1007,m,physical oceanography,associate professor,Ocean
+1008,m,ecology,associate professor,
+1009,m,climate dynamics,associate professor,
+1010,m,"biogeochemistry, ecology",associate professor,Earth
+1011,m,"ecology, biological oceanography, ocean acoustics",associate professor,Ocean
+1012,m,physical oceanography,associate professor,Ocean
+1013,m,physical oceanography,associate professor,Ocean
+1014,m,"biogeochemistry, geochemistry, chemical oceanography",associate professor,Ocean
+1015,m,marine biology,professor,Ocean
+1016,f,"biogeochemistry, ecology, biolocial oceanography",professor,Ocean
+1017,m,biogeochemistry,professor,Earth
+1018,m,"hydrology, marine geophysics",professor,Earth
+1019,m,physical oceanography,professor,Ocean
+1020,m,ecology,professor,
+1021,m,atmospheric dynamics,professor,Atmosphere
+1022,m,"geochemistry, chemical oceanography",professor,Ocean
+1023,m,atmospheric dynamics,professor,Atmosphere
+1024,m,"ecology, biogeochemistry, biological oceanography",professor,Ocean
+1025,m,"ecology, marine biology",professor,Ocean
+1026,m,"ecology, biogeochemistry, biological oceanography",professor,Ocean
+1027,m,climate dynamics,professor,
+1028,m,"climate dynamics, atmospheric dynamics",professor,Atmosphere
+1029,m,atmospheric chemistry,professor,Atmosphere
+1030,m,atmospheric chemistry,professor,Atmosphere
+1031,f,"ecology, biological oceanography",professor,Ocean
+1032,m,ecology,professor,
+1033,m,"atmospheric chemistry, geochemistry",professor,Atmosphere
+1034,f,biological oceanography,professor,Ocean
+1035,f,"sustainability, ecology",professor,
+1036,m,"sustainability, ecology, marine biology",professor,Ocean
+1037,m,"sustainability, chemical oceanography",professor,Ocean
+1038,m,"biological oceanography, ecology",professor,Ocean
+1039,m,"atmospheric dynamics, climate dynamics",professor,Atmosphere
+1040,f,atmospheric dynamics,associate professor,Atmosphere
+1041,m,"climate dynamics, paleoclimate",associate professor,
+1042,f,atmospheric dynamics,associate professor,Atmosphere
+1043,m,"climate dynamics, physical oceanography",associate professor,Ocean
+1044,m,atmospheric dynamics,associate professor,Atmosphere
+1045,m,climate dynamics,associate professor,
+1046,m,atmospheric dynamics,associate professor,Atmosphere
+1047,m,atmospheric dynamics,professor,Atmosphere
+1048,m,"climate dynamics, hydrology",professor,
+1049,m,atmospheric dynamics,professor,Atmosphere
+1050,m,atmospheric dynamics,professor,Atmosphere
+1051,m,atmospheric dynamics,professor,Atmosphere
+1052,m,atmospheric dynamics,professor,Atmosphere
+1053,m,"climate dynamics, paleoclimate",professor,
+1054,m,land surface processes,professor,
+1055,m,atmospheric chemistry,assistant professor,Atmosphere
+1056,m,atmospheric dynamics,assistant professor,Atmosphere
+1057,m,"atmospheric dynamics, hydrology",assistant professor,Atmosphere
+1058,m,atmospheric chemistry,assistant professor,Atmosphere
+1059,m,atmospheric dynamics,associate professor,Atmosphere
+1060,m,atmospheric dynamics,associate professor,Atmosphere
+1061,f,atmospheric dynamics,associate professor,Atmosphere
+1062,m,"biogeochemistry, atmospheric chemistry",associate professor,Atmosphere
+1063,m,atmospheric dynamics,professor,Atmosphere
+1064,f,atmospheric chemistry,professor,Atmosphere
+1065,m,"physical oceanography, climate dynamics",professor,Ocean
+1066,m,climate dynamics,professor,
+1067,m,atmospheric chemistry,professor,Atmosphere
+1068,m,"climate dynamics, atmospheric dynamics",professor,Atmosphere
+1069,m,climate dynamics,professor,
+1070,f,atmospheric dynamics,professor,Atmosphere
+1071,m,atmospheric dynamics,professor,Atmosphere
+1072,m,atmospheric dynamics,professor,Atmosphere
+1073,m,atmospheric chemistry,professor,Atmosphere
+1074,m,hydrology,assistant professor,
+1075,m,climate dynamics,assistant professor,
+1076,m,"resource management, geopolitics/impacts",assistant professor,Earth
+1077,m,"sustainability, geopolitics/impacts",assistant professor,Earth
+1078,f,"ecology, paleoclimate",assistant professor,
+1079,f,geopolitics/impacts,assistant professor,Earth
+1080,f,gis/engineering,assistant professor,
+1081,m,"gis/engineering, sustainability",assistant professor,
+1082,m,"gis/engineering, hydrology",associate professor,
+1083,m,climate dynamics,associate professor,
+1084,m,gis/engineering,associate professor,
+1085,f,geomorphology,associate professor,Earth
+1086,m,"climate dynamics, biogeochemistry",associate professor,Earth
+1087,m,"geomorphology, gis/engineering",professor,Earth
+1088,m,"geopolitics/impacts, gis/engineering",professor,Earth
+1089,m,ecology,professor,
+1090,f,geopolitics/impacts,professor,Earth
+1091,m,"gis/engineering, ecology",professor,
+1092,m,ecology,professor,
+1093,f,geopolitics/impacts,professor,Earth
+1094,m,geopolitics/impacts,professor,Earth
+1095,m,geomorphology,professor,Earth
+1096,f,"ecology, paleoclimate, geobiology",assistant professor,Earth
+1097,m,geology,assistant professor,Earth
+1098,m,geology,assistant professor,Earth
+1099,f,geology,assistant professor,Earth
+1100,f,geology,associate professor,Earth
+1101,m,"hydrology, geology",associate professor,Earth
+1102,m,"geophysics, marine geophysics",associate professor,Earth
+1103,m,"geology, geophysics",professor,Earth
+1104,f,"geology, geophysics",professor,Earth
+1105,m,geology,professor,Earth
+1106,m,geophysics,professor,Earth
+1107,m,geophysics,professor,Earth
+1108,m,"geology, geochemistry, biogeochemistry",professor,Earth
+1109,m,geomorphology,professor,Earth
+1110,m,"geochemistry, paleoclimate, hydrology",professor,Earth
+1111,m,geology,professor,Earth
+1112,m,"geochemistry, geology",professor,Earth
+1113,m,geochemistry,professor,Earth
+1114,m,"geology, geochemistry",professor,Earth
+1115,m,geology,professor,Earth
+1116,m,geology,professor,Earth
+1117,f,"paleontology, geobiology",professor,Earth
+1118,m,education,professor,
+1119,m,"geology, geophysics",professor,Earth
+1120,m,geology,professor,Earth
+1121,m,"paleontology, geobiology, geology",professor,Earth
+1122,m,"hydrology, geology",professor,Earth
+1123,f,"chemical oceanography, biogeochemistry",assistant professor,Ocean
+1124,f,geochemistry,assistant professor,Earth
+1125,m,physical oceanography,assistant professor,Ocean
+1126,f,chemical oceanography,assistant professor,Ocean
+1127,m,biological oceanography,assistant professor,Ocean
+1128,m,"chemical oceanography, marine geology, paleoclimate, geochemistry",assistant professor,Ocean
+1129,m,physical oceanography,associate professor,Ocean
+1130,m,"marine geology, paleoceanography",professor,Ocean
+1131,f,biological oceanography,professor,Ocean
+1132,m,physical oceanography,professor,Ocean
+1133,m,marine geology,professor,Earth
+1134,m,physical oceanography,professor,Ocean
+1135,m,"geochemistry, ecology",professor,Earth
+1136,m,physical oceanography,professor,Ocean
+1137,m,geochemistry,professor,Earth
+1138,m,physical oceanography,professor,Ocean
+1139,f,marine geology,professor,Earth
+1140,m,"marine geology, paleoceanography",professor,Ocean
+1141,f,"marine geology, paleoceanography, geochemistry",professor,Ocean
+1142,m,"biological oceanography, biogeochemistry",professor,Ocean
+1143,f,"chemical oceanography, biogeochemistry",professor,Ocean
+1144,m,atmospheric dynamics,associate professor,Atmosphere
+1145,f,climate dynamics,professor,
+1146,m,atmospheric dynamics,professor,Atmosphere
+1147,f,atmospheric dynamics,professor,Atmosphere
+1148,m,climate dynamics,professor,
+1149,m,atmospheric chemistry,professor,Atmosphere
+1150,m,climate dynamics,professor,
+1151,m,geomorphology,assistant professor,Earth
+1152,m,geology,assistant professor,Earth
+1153,m,geopolitics/impacts,associate professor,Earth
+1154,m,paleontology,associate professor,
+1155,f,paleoclimate,associate professor,
+1156,m,geophysics,associate professor,Earth
+1157,m,ecology,associate professor,
+1158,m,geophysics,associate professor,Earth
+1159,f,geophysics,associate professor,Earth
+1160,m,geophysics,associate professor,Earth
+1161,m,geophysics,professor,Earth
+1162,f,glaciology,professor,
+1163,f,"geology, geophysics",professor,Earth
+1164,m,"geology, geomorphology",professor,Earth
+1165,m,geochemistry,professor,Earth
+1166,m,"gis/engineering, ecology (soil science)",professor,
+1167,m,geology,professor,Earth
+1168,m,geophysics,assistant professor,Earth
+1169,m,geophysics,assistant professor,Earth
+1170,m,climate dynamics,assistant professor,
+1171,f,"geochemistry, geology",assistant professor,Earth
+1172,m,geomorphology,assistant professor,Earth
+1173,m,"climate dynamics, geochemistry, paleoceanography",assistant professor,Ocean
+1174,f,climate dynamics,assistant professor,
+1175,m,geology,associate professor,Earth
+1176,f,"geochemistry, paleoclimate, biogeochemistry",associate professor,Earth
+1177,m,climate dynamics,associate professor,
+1178,f,geology,professor,Earth
+1179,m,"geology, geochemistry",professor,Earth
+1180,f,geophysics,professor,Earth
+1181,m,geology,professor,Earth
+1182,m,"paleoclimate, paleontology, geology",professor,Earth
+1183,m,geology,professor,Earth
+1184,m,geology,professor,Earth
+1185,m,geology,professor,Earth
+1186,m,geology,professor,Earth
+1187,m,geomorphology,professor,Earth
+1188,m,planetary science,professor,Planet
+1189,m,geophysics,professor,Earth
+1190,m,geology,professor,Earth
+1191,m,geology,professor,Earth
+1192,m,geomorphology,professor,Earth
+1193,m,geochemistry,professor,Earth
+1194,m,geochemistry,professor,Earth
+1195,m,geochemistry,professor,Earth
+1196,f,"biogeochemistry, chemical oceanography, biological oceanography",professor,Ocean
+1197,f,hydrology,assistant professor,
+1198,m,hydrology,assistant professor,
+1199,f,"geochemistry, biogeochemistry, climate dynamics",assistant professor,Earth
+1200,m,atmospheric chemistry,associate professor,Atmosphere
+1201,m,atmospheric dynamics,associate professor,Atmosphere
+1202,m,"hydrology, land surface processes",associate professor,
+1203,m,"geomorphology, hydrology",professor,Earth
+1204,m,atmospheric chemistry,professor,Atmosphere
+1205,m,climate dynamics,professor,
+1206,m,atmospheric dynamics,professor,Atmosphere
+1207,m,hydrology,professor,
+1208,m,hydrology,professor,
+1209,f,"geochemistry, biogeochemistry, hydrology",professor,Earth
+1210,m,"hydrology, biogeochemistry",professor,Earth
+1211,m,atmospheric dynamics,professor,Atmosphere
+1212,m,hydrology,professor,
+1213,m,hydrology,professor,
+1214,m,"geology, hydrology, geophysics",professor,Earth
+1215,m,"climate dynamics, hydrology",professor,
+1216,m,"hydrology, geochemistry",professor,Earth
+1217,f,"geochemistry, paleoceanography",assistant professor,Ocean
+1218,f,"biogeochemistry, geobiology, ecology",assistant professor,Earth
+1219,m,"atmospheric dynamics, climate dynamics",assistant professor,Atmosphere
+1220,m,planetary science,assistant professor,Planet
+1221,f,geophysics,assistant professor,Earth
+1222,f,paleontology,assistant professor,
+1223,m,"biogeochemistry, geobiology, ecology",assistant professor,Earth
+1224,m,"climate dynamics, paleoclimate",associate professor,
+1225,m,geology,associate professor,Earth
+1226,f,atmospheric chemistry,associate professor,Atmosphere
+1227,f,atmospheric dynamics,associate professor,Atmosphere
+1228,m,paleontology,associate professor,
+1229,m,geochemistry,professor,Earth
+1230,m,geochemistry,professor,Earth
+1231,m,"geochemistry, planetary science",professor,Planet
+1232,m,geochemistry,professor,Earth
+1233,m,geochemistry,professor,Earth
+1234,m,paleontology,professor,
+1235,m,paleontology,professor,
+1236,f,"geology, ecology",professor,Earth
+1237,m,glaciology,professor,
+1238,m,atmospheric dynamics,professor,Atmosphere
+1239,m,geology,professor,Earth
+1240,m,geophysics,assistant professor,Earth
+1241,m,"geobiology, geochemistry",associate professor,Earth
+1242,m,geophysics,associate professor,Earth
+1243,f,"education, geophysics",associate professor,Earth
+1244,m,"geochemistry, geobiology",associate professor,Earth
+1245,f,"geology, geochemistry",associate professor,Earth
+1246,m,"geochemistry, hydrology",professor,Earth
+1247,m,"geology, paleontology",professor,Earth
+1248,f,"hydrology, sustainability",professor,
+1249,m,geomorphology,professor,Earth
+1250,m,geomorphology,professor,Earth
+1251,m,"biogeochemistry, geochemistry, hydrology, geology",professor,Earth
+1252,m,"sustainability, geopolitics/impacts",assistant professor,Earth
+1253,f,gis/engineering,assistant professor,
+1254,m,"hydrology, gis/engineering",assistant professor,
+1255,m,geopolitics/impacts,assistant professor,Earth
+1256,f,geopolitics/impacts,assistant professor,Earth
+1257,f,"gis/engineering, geopolitics/impacts",assistant professor,Earth
+1258,f,"geopolitics/impacts, sustainability",assistant professor,Earth
+1259,f,"gis/engineering, climate dynamics",associate professor,
+1260,f,climate dynamics,associate professor,
+1261,f,atmospheric dynamics,associate professor,Atmosphere
+1262,m,geopolitics/impacts,professor,Earth
+1263,m,"climate dynamics, glaciology",professor,
+1264,m,climate dynamics,professor,
+1265,m,"hydrology, climate dynamics",professor,
+1266,m,"ecology, hydrology, biogeochemistry",professor,Earth
+1267,m,"ecology, marine biology",assistant professor,Ocean
+1268,f,"geopolitics/impacts, ecology, geochemistry",assistant professor,Earth
+1269,f,"biogeochemistry, hydrology, biological oceanography, physical oceanography",assistant professor,Ocean
+1270,m,physical oceanography,assistant professor,Ocean
+1271,m,"physical oceanography, glaciology",assistant professor,Ocean
+1272,f,"resource management, geopolitics/impacts",assistant professor,Earth
+1273,m,"ecology, geomorphology, geochemistry",assistant professor,Earth
+1274,f,"geochemistry, biological oceanography, chemical oceanography",assistant professor,Ocean
+1275,m,"geochemistry, ecology, chemical oceanography, biological oceanography",assistant professor,Ocean
+1276,f,"biological oceanography, ecology, geobiology",associate professor,Ocean
+1277,m,biological oceanography,associate professor,Ocean
+1278,f,"biological oceanography, ecology",associate professor,Ocean
+1279,f,"ecology, chemical oceanography",associate professor,Ocean
+1280,m,physical oceanography,associate professor,Ocean
+1281,m,physical oceanography,associate professor,Ocean
+1282,m,"geobiology, biological oceanography",associate professor,Ocean
+1283,f,"biogeochemistry, chemical oceanography, biological oceanography",associate professor,Ocean
+1284,f,climate dynamics,professor,
+1285,f,"geochemistry, cheical oceanography, paleoceanography, paleoclimate",professor,Ocean
+1286,m,chemical oceanography,professor,Ocean
+1287,m,sustainability,professor,
+1288,m,"ecology, biological oceanography",professor,Ocean
+1289,m,sustainability,professor,
+1290,m,"biogeochemistry, geochemistry",professor,Earth
+1291,m,"ecology, biological oceanography",professor,Ocean
+1292,m,"physical oceanography, glaciology",professor,Ocean
+1293,m,"biological oceanography, ecology",professor,Ocean
+1294,m,resource management,professor,
+1295,f,geopolitics/impacts,professor,Earth
+1296,m,"hydrology, geomorphology, ocean acoustics",professor,Ocean
+1297,m,biogeochemistry,professor,Earth
+1298,m,"ecology, biological oceanography",professor,Ocean
+1299,m,physical oceanography,professor,Ocean
+1300,m,physical oceanography,professor,Ocean
+1301,f,climate dynamics,assistant professor,
+1302,f,atmospheric dynamics,assistant professor,Atmosphere
+1303,m,atmospheric dynamics,assistant professor,Atmosphere
+1304,f,atmospheric chemistry,assistant professor,Atmosphere
+1305,f,atmospheric chemistry,associate professor,Atmosphere
+1306,m,atmospheric dynamics,professor,Atmosphere
+1307,m,atmospheric dynamics,professor,Atmosphere
+1308,m,atmospheric dynamics,professor,Atmosphere
+1309,m,climate dynamics,professor,
+1310,m,climate dynamics,professor,
+1311,m,atmospheric dynamics,professor,Atmosphere
+1312,f,"chemical oceanography, biogeochemistry, geochemistry",associate professor,Ocean
+1313,m,"paleoclimate, climate dynamics",assistant professor,
+1314,f,"geophysics, geology",assistant professor,Earth
+1315,m,geology,assistant professor,Earth
+1316,f,"hydrology, geochemistry",associate professor,Earth
+1317,m,geochemistry,associate professor,Earth
+1318,m,"geochemistry, chemical oceanography, paleoceanography",associate professor,Ocean
+1319,f,geophysics,associate professor,Earth
+1320,m,geophysics,professor,Earth
+1321,m,hydrology,professor,
+1322,m,geology,professor,Earth
+1323,m,"geophysics, ecology",professor,Earth
+1324,m,geology,professor,Earth
+1325,m,geology,professor,Earth
+1326,f,"geology, geochemistry",professor,Earth
+1327,m,"geochemistry, geology",professor,Earth
+1328,m,"geophysics, geochemistry",professor,Earth
+1329,m,"geophysics, geology",professor,Earth
+1330,m,"biogeochemistry, chemical oceanography",professor,Ocean
+1331,m,"geochemistry, chemical oceanography",professor,Ocean
+1332,m,"geophysics, marine geophysics",professor,Earth
+1333,m,"biogeochemistry, chemical oceanography, biological oceanography",assistant professor,Ocean
+1334,m,"biological oceanography, chemical oceanography",assistant professor,Ocean
+1335,m,climate dynamics,assistant professor,
+1336,m,physical oceanography,assistant professor,Ocean
+1337,f,biological oceanography,associate professor,Ocean
+1338,m,physical oceanography,associate professor,Ocean
+1339,m,"biological oceanography, ecology",associate professor,Ocean
+1340,m,"biogeochemistry, geochemistry, biological oceanography, chemical oceanography",associate professor,Ocean
+1341,f,ecology,associate professor,
+1342,m,"geophysics, geology",associate professor,Earth
+1343,f,"biological oceanography, chemical oceanography, biogeochemistry",associate professor,Ocean
+1344,m,"biogeochemistry, chemical oceanography, biological oceanography",professor,Ocean
+1345,m,"marine biology, ecology",professor,Ocean
+1346,m,physical oceanography,professor,Ocean
+1347,m,physical oceanography,professor,Ocean
+1348,m,"biogeochemistry, chemical oceanography",professor,Ocean
+1349,m,biological oceanography,professor,Ocean
+1350,m,physical oceanography,professor,Ocean
+1351,f,physical oceanography,professor,Ocean
+1352,m,physical oceanography,professor,Ocean
+1353,m,physical oceanography,professor,Ocean
+1354,m,physical oceanography,professor,Ocean
+1355,m,chemical oceanography,professor,Ocean
+1356,m,physical oceanography,professor,Ocean
+1357,m,"biogeochemistry, ecology, chemiceal oceanography",professor,Ocean
+1358,m,"biological oceanography, biogeochemistry, ecology",professor,Ocean
+1359,m,climate dynamics,professor,
+1360,m,chemical oceanography,professor,Ocean
+1361,m,geology,assistant professor,Earth
+1362,m,geophysics,assistant professor,Earth
+1363,f,geology,assistant professor,Earth
+1364,m,geophysics,assistant professor,Earth
+1365,m,geology,assistant professor,Earth
+1366,f,"geology, hydrology, geochemistry",associate professor,Earth
+1367,m,atmospheric chemistry,associate professor,Atmosphere
+1368,m,geochemistry,associate professor,Earth
+1369,m,geology,associate professor,Earth
+1370,f,atmospheric chemistry,associate professor,Atmosphere
+1371,f,geology,associate professor,Earth
+1372,m,geophysics,associate professor,Earth
+1373,m,geochemistry,professor,Earth
+1374,m,"geology, geochemistry",professor,Earth
+1375,m,geophysics,professor,Earth
+1376,m,geology,professor,Earth
+1377,m,geophysics,professor,Earth
+1378,m,geology,professor,Earth
+1379,f,atmospheric dynamics,professor,Atmosphere
+1380,m,geology,professor,Earth
+1381,m,"geochemistry, geology",professor,Earth
+1382,f,geophysics,professor,Earth
+1383,f,"geology, paleontology",professor,Earth
+1384,m,geology,professor,Earth
+1385,m,geology,professor,Earth
+1386,m,atmospheric chemistry,professor,Atmosphere
+1387,m,geophysics,professor,Earth
+1388,m,geophysics,professor,Earth
+1389,m,"geology, geophysics",professor,Earth
+1390,m,geophysics,professor,Earth
+1391,m,geophysics,professor,Earth
+1392,f,"hydrology, geomorphology, geology",assistant professor,Earth
+1393,m,"geochemistry, paleontology, geology",associate professor,Earth
+1394,m,"paleoclimate, geomorphology, geochemistry",associate professor,Earth
+1395,f,geology,associate professor,Earth
+1396,f,"geology, geochemistry",associate professor,Earth
+1397,m,"geomorphology, hydrology",associate professor,Earth
+1398,m,paleontology,professor,
+1399,m,paleontology,professor,
+1400,m,geology,professor,Earth
+1401,f,geology,professor,Earth
+1402,m,"geology, geochemistry",professor,Earth
+1403,m,geochemistry,professor,Earth
+1404,m,"geochemistry, geology",professor,Earth
+1405,m,geopolitics/impacts,assistant professor,Earth
+1407,m,gis/engineering,assistant professor,
+1408,f,climate dynamics,assistant professor,
+1409,m,atmospheric dynamics,assistant professor,Atmosphere
+1410,f,geopolitics/impacts,associate professor,Earth
+1411,m,geopolitics/impacts,associate professor,Earth
+1412,m,atmospheric dynamics,associate professor,Atmosphere
+1413,m,"climate dynamics, glaciology",professor,
+1414,m,geopolitics/impacts,professor,Earth
+1415,m,biogeochemistry,professor,Earth
+1416,m,geopolitics/impacts,professor,Earth
+1417,m,geopolitics/impacts,professor,Earth
+1418,m,gis/engineering,professor,
+1419,m,atmospheric dynamics,professor,Atmosphere
+1420,f,geopolitics/impacts,professor,Earth
+1421,m,glaciology,professor,
+1422,m,geopolitics/impacts,professor,Earth
+1423,f,geophysics,assistant professor,Earth
+1424,m,"hydrology, geology",assistant professor,Earth
+1425,f,geophysics,assistant professor,Earth
+1426,m,geology,associate professor,Earth
+1427,m,"geology, geochemistry",associate professor,Earth
+1428,m,geology,associate professor,Earth
+1429,f,"geochemistry, paleontology, geology",associate professor,Earth
+1430,f,"paleoclimate, geochemistry, geology",associate professor,Earth
+1431,m,"geochemistry, geology",associate professor,Earth
+1432,m,geology,professor,Earth
+1433,m,hydrology,professor,
+1434,m,"geochemistry, geobiology",professor,Earth
+1435,m,geology,professor,Earth
+1436,m,"geochemistry, geology",professor,Earth
+1437,m,"paleontology, geology",professor,Earth
+1438,f,"hydrology, geology",professor,Earth
+1439,m,geology,professor,Earth
+1440,f,"hydrology, geochemistry",professor,Earth
+1441,f,"hydrology, geochemistry, geophysics, geology",professor,Earth
+1442,m,paleontology,professor,
+1443,f,glaciology,professor,
+1444,m,"geochemistry, ggeophysics",professor,Earth
+1445,m,geophysics,professor,Earth
+1446,m,geology,professor,Earth
+1447,f,"geochemistry, chemical oceanography",assistant professor,Ocean
+1448,m,"biological oceanography, ecology",assistant professor,Ocean
+1449,f,atmospheric chemistry,assistant professor,Atmosphere
+1450,m,geophysics,assistant professor,Earth
+1451,m,"geopolitics/impacts, sustainability",assistant professor,Earth
+1452,f,"geochemistry, chemical oceanography",assistant professor,Ocean
+1453,f,"chemical oceanography, biogeochemistry, biological oceanography",assistant professor,Ocean
+1454,f,marine biology,assistant professor,Ocean
+1455,m,biological oceanography,associate professor,Ocean
+1457,f,climate dynamics,associate professor,
+1458,m,ecology,associate professor,
+1459,f,"geopolitics/impacts, resource management",associate professor,Earth
+1460,m,"geochemistry, paleoclimate, paleoceanography",associate professor,Ocean
+1461,m,physical oceanography,associate professor,Ocean
+1462,m,geophysics,professor,Earth
+1463,m,atmospheric chemistry,professor,Atmosphere
+1464,m,"biological oceanography, ecology",professor,Ocean
+1465,f,ecology,professor,
+1466,m,"ecology, marine biology, chemical oceanography",professor,Ocean
+1467,f,physical oceanography,professor,Ocean
+1468,m,"geophysics, hydrology, geology",professor,Earth
+1469,m,"gis/engineering, biological oceanography",professor,Ocean
+1470,m,"biological oceanography, ecology",professor,Ocean
+1471,m,geopolitics/impacts,professor,Earth
+1472,m,"physical oceanography, ocean acoustics",professor,Ocean
+1473,f,climate dynamics,professor,
+1474,m,"geobiology, biological oceanography",professor,Ocean
+1475,m,physical oceanography,professor,Ocean
+1476,m,"geology, paleoclimate",professor,Earth
+1477,f,marine biology,professor,Ocean
+1478,m,physical oceanography,professor,Ocean
+1479,m,marine biology,professor,Ocean
+1480,m,"biological oceanography, biogeochemistry, chemical oceanography",professor,Ocean
+1481,m,physical oceanography,professor,Ocean
+1482,m,atmospheric chemistry,professor,Atmosphere
+1483,m,physical oceanography,professor,Ocean
+1484,m,physical oceanography,professor,Ocean
+1485,m,physical oceanography,professor,Ocean
+1486,m,climate dynamics,professor,
+1487,m,"biological oceanography, ecology",professor,Ocean
+1488,m,"climate dynamics, resource management",professor,
+1489,f,geophysics,professor,Earth
+1490,m,atmospheric dynamics,professor,Atmosphere
+1491,m,atmospheric dynamics,professor,Atmosphere
+1492,m,physical oceanography,professor,Ocean
+1493,f,"ecology, marine biology",professor,Ocean
+1494,m,"ecology, marine biology",professor,Ocean
+1495,m,physical oceanography,professor,Ocean
+1496,m,atmospheric dynamics,professor,Atmosphere
+1497,f,physical oceanography,professor,Ocean
+1498,f,"ecology, marine biology",professor,Ocean
+1499,m,physical oceanography,professor,Ocean
+1500,m,"ecology, physical oceanography",professor,Ocean
+1501,f,biological oceanography,professor,Ocean
+1502,m,"paleoclimate, geochemistry",professor,Earth
+1503,m,"gis/engineering, geology, ecology",professor,Earth
+1504,f,"geology, geobiology",professor,Earth
+1505,m,physical oceanography,professor,Ocean
+1506,m,ecology,professor,
+1507,m,physical oceanography,professor,Ocean
+1508,m,"climate dynamics, hydrology",professor,
+1509,m,"resource management, sustainability",professor,
+1510,m,"geochemistry, geology",professor,Earth
+1511,m,chemical oceanography,professor,Ocean
+1512,f,atmospheric dynamics,professor,Atmosphere
+1513,m,planetary science,assistant professor,Planet
+1514,f,"atmospheric dynamics, climate dynamics",assistant professor,Atmosphere
+1515,m,glaciology,associate professor,
+1516,m,"climate dynamics, glaciology",associate professor,
+1517,f,atmospheric dynamics,associate professor,Atmosphere
+1518,m,planetary science,associate professor,Planet
+1519,f,"climate dynamics, biogeochemistry",associate professor,Earth
+1520,m,"atmospheric dynamics, climate dynamics, biogeochemistry",associate professor,Atmosphere
+1521,f,planetary science,associate professor,Planet
+1522,f,planetary science,associate professor,Planet
+1523,m,planetary science,professor,Planet
+1524,m,planetary science,professor,Planet
+1525,m,planetary science,professor,Planet
+1526,m,"atmospheric dynamics, climate dynamics",professor,Atmosphere
+1527,m,planetary science,professor,Planet
+1528,m,planetary science,professor,Planet
+1529,m,planetary science,professor,Planet
+1530,m,planetary science,professor,Planet
+1531,f,atmospheric chemistry,professor,Atmosphere
+1532,f,planetary science,professor,Planet
+1533,m,"planetary science, geobiology, atmospheric chemistry",professor,Planet
+1534,m,planetary science,professor,Planet
+1535,m,climate dynamics,professor,
+1536,m,planetary science,professor,Planet
+1537,m,"atmospheric dynamics, atmospheric chemistry",professor,Atmosphere
+1538,m,planetary science,professor,Planet
+1539,f,"atmospheric chemistry, biogeochemistry",professor,Atmosphere
+1540,m,paleontology,professor,
+1541,m,"geobiology, geochemistry, biogeochemistry, chemical oceanography",associate professor,Ocean
+1542,m,"geobiology, paleoceanography, geochemistry, geomorphology, hydrology, geology",professor,Ocean
+1543,m,"geology, geochemistry",assistant professor,Earth
+1544,f,geophysics,assistant professor,Earth
+1545,f,"geobiology, geochemistry, geology",assistant professor,Earth
+1546,f,"paleocliamte, geochemistry, chemical oceanography, paleoceanography",assistant professor,Ocean
+1547,f,geobiology,assistant professor,Earth
+1548,m,geophysics,assistant professor,Earth
+1549,f,"biogeochemistry, geochemistry, geobiology",associate professor,Earth
+1550,m,paleontology,associate professor,
+1551,m,geophysics,associate professor,Earth
+1552,f,"paleoclimate, geochemistry, geology",associate professor,Earth
+1553,m,"geology, paleoclimate, geochemistry",associate professor,Earth
+1554,m,paleontology,associate professor,
+1555,m,physical oceanography,professor,Ocean
+1556,m,paleontology,professor,
+1557,m,geochemistry,professor,Earth
+1558,f,"hydrology, geology, geochemistry, paleoclimate",professor,Earth
+1559,f,"geology, geohpysics, geomorphology",professor,Earth
+1560,f,"paleoclimate, geochemistry, chemical oceanography",professor,Ocean
+1561,f,"paleoclimate, geochemistry, chemical oceanography",professor,Ocean
+1562,f,geochemistry,professor,Earth
+1563,f,"geochemistry, geophysics",professor,Earth
+1564,m,"geology, geochemistry, paleoclimate",professor,Earth
+1565,m,"geology, geomorphology, geochemistry",professor,Earth
+1566,m,"paleoclimate, geology, paleoceanography",professor,Ocean
+1567,m,geophysics,professor,Earth
+1568,m,geophysics,professor,Earth
+1569,m,"biogeochemistry, geology, geochemistry, paleoclimate, geobiology",professor,Earth
+1570,m,"geology, geochemistry",professor,Earth
+1571,m,"geology, geophysics",professor,Earth
+1572,m,"geology, geochemistry",professor,Earth
+1573,m,geophysics,assistant professor,Earth
+1574,f,,assistant professor,
+1575,m,"hydrology, geology",assistant professor,Earth
+1576,f,"hydrology, geology",assistant professor,Earth
+1577,f,geophysics,assistant professor,Earth
+1578,m,land surface processes,assistant professor,
+1579,m,geochemistry,assistant professor,Earth
+1580,m,geobiology,associate professor,Earth
+1581,m,geophysics,associate professor,Earth
+1582,f,geobiology,associate professor,Earth
+1583,m,"geochemistry, paleoclimate",professor,Earth
+1584,m,geology,professor,Earth
+1585,m,paleontology,professor,
+1586,m,geology,professor,Earth
+1587,m,"paleoclimate, geochemistry",professor,Earth
+1588,m,paleontology,professor,
+1589,m,"biogeochemistry, chemical oceanography, biological oceanography",professor,Ocean
+1590,m,geology,professor,Earth
+1591,m,geochemistry,professor,Earth
+1592,m,geology,professor,Earth
+1593,f,paleoceanography,professor,Ocean
+1594,m,geophhysics,professor,Earth
+1595,m,geochemistry,professor,Earth
+1596,m,geology,professor,Earth
+1597,m,geology,professor,Earth
+1598,f,geology,professor,Earth
+1600,f,geobiology,assistant professor,Earth
+1601,m,ecology (soil science),assistant professor,
+1602,m,ecology,assistant professor,
+1603,m,resource management,assistant professor,
+1604,f,"hydrology, resource management",assistant professor,
+1605,f,climate dynamics,assistant professor,
+1606,f,"hydrology, resource management",assistant professor,
+1607,f,resource management (agriculture),assistant professor,
+1608,m,"hydrology, resource management",associate professor,
+1609,m,"biogeochemistry, hydrology, geobiology",associate professor,Earth
+1610,m,resource management,associate professor,
+1611,m,resource management,associate professor,
+1612,m,resource management,associate professor,
+1613,m,"atmospheric dynamics, biogeochemistry, ecology, climate dynamics",associate professor,Atmosphere
+1614,f,"biogeochemistry, geochemistry",associate professor,Earth
+1615,f,"ecology, atmospheric dynamics, biogeochemistry",associate professor,Atmosphere
+1616,m,"hydrology, resource management",professor,
+1617,m,ecology (soil science),professor,
+1618,m,biogeochemistry,professor,Earth
+1619,m,atmospheric chemistry,professor,Atmosphere
+1620,m,"hydrology, ecoogy",professor,
+1621,m,"biogeochemistry, ecology (soil science), geochemistry",professor,Earth
+1622,m,"hydrology, geobiology",professor,Earth
+1623,m,resource management,professor,
+1624,m,"hydrology, biogeochemistry, geochemistry",professor,Earth
+1625,m,"biogeochemistry, resource management, ecology (soil science)",professor,Earth
+1626,f,geopolitics/impacts,assistant professor,Earth
+1627,m,"paleoclimate, paleobiology, geochemistry",assistant professor,Earth
+1628,m,gis/engineering,assistant professor,
+1629,m,"gis/engineering, geopolitics/impacts",assistant professor,Earth
+1630,m,ecology,assistant professor,
+1631,f,geopolitics/impacts,assistant professor,Earth
+1632,m,ecology,associate professor,
+1633,m,ecology,associate professor,
+1634,f,"climate dynamics, resource management",associate professor,
+1635,m,geopolitics/impacts,associate professor,Earth
+1636,m,hydrology,professor,
+1637,f,geopolitics/impacts,professor,Earth
+1638,f,resource management,professor,
+1639,m,"paleoclimate, paleobiology",professor,
+1640,f,"climate dynamics, ecology",professor,
+1641,m,geopolitics/impacts,professor,Earth
+1642,m,geophysics,professor,Earth
+1643,m,geology,assistant professor,Earth
+1644,m,geology,assistant professor,Earth
+1645,m,geology,assistant professor,Earth
+1646,m,geochemistry,assistant professor,Earth
+1647,f,glaciology,assistant professor,
+1648,m,geology,assistant professor,Earth
+1649,m,geology,assistant professor,Earth
+1650,m,geochemistry,assistant professor,Earth
+1651,m,geomorphology,assistant professor,Earth
+1652,m,geology,assistant professor,Earth
+1653,f,geochemistry,associate professor,Earth
+1654,f,geophysics,associate professor,Earth
+1655,m,geology,associate professor,Earth
+1656,f,geochemistry,associate professor,Earth
+1657,f,planetary science,professor,Planet
+1658,m,geophysics,professor,Earth
+1659,m,geology,professor,Earth
+1660,m,geophysics,professor,Earth
+1661,m,geophysics,professor,Earth
+1662,f,geochemistry,professor,Earth
+1663,m,geology,professor,Earth
+1664,m,geophysics,professor,Earth
+1665,f,geophysics,assistant professor,Earth
+1666,m,geophysics,assistant professor,Earth
+1667,m,geology,assistant professor,Earth
+1668,f,geophysics,assistant professor,Earth
+1669,m,hydrology,assistant professor,
+1670,f,geology,assistant professor,Earth
+1671,m,geophysics,assistant professor,Earth
+1672,m,geobiology,assistant professor,Earth
+1673,m,paleobiology,associate professor,
+1674,m,"geology, geochemistry",associate professor,Earth
+1675,m,geology,associate professor,Earth
+1676,m,geochemistry,associate professor,Earth
+1677,f,"geology, paleoclimate",professor,Earth
+1678,m,"hydrology, geology",professor,Earth
+1679,m,geology,professor,Earth
+1680,m,"geochemistry, geology",professor,Earth
+1681,f,"geochemistry, planetary science",professor,Planet
+1682,m,geochemistry,professor,Earth
+1683,m,"geology, hydrology",professor,Earth
+1684,m,paleontology,professor,
+1685,m,climate dynamics,assistant professor,
+1686,m,atmospheric dynamics,assistant professor,Atmosphere
+1687,f,climate dynamics,assistant professor,
+1688,f,atmospheric dynamics,assistant professor,Atmosphere
+1689,m,atmospheric dynamics,assistant professor,Atmosphere
+1690,m,"climate dynamics, hydrology",associate professor,
+1691,m,atmospheric dynamics,associate professor,Atmosphere
+1692,m,atmospheric dynamics,associate professor,Atmosphere
+1693,m,atmospheric dynamics,associate professor,Atmosphere
+1694,m,atmospheric dynamics,professor,Atmosphere
+1695,m,atmospheric dynamics,professor,Atmosphere
+1696,m,atmospheric dynamics,professor,Atmosphere
+1697,m,atmospheric chemistry,professor,Atmosphere
+1698,m,biogeochemistry,professor,Earth
+1699,m,atmospheric dynamics,professor,Atmosphere
+1700,m,atmospheric dynamics,professor,Atmosphere
+1701,m,atmospheric chemistry,professor,Atmosphere
+1702,m,climate dynamics,professor,
+1703,f,atmospheric dynamics,professor,Atmosphere
+1704,m,atmospheric dynamics,professor,Atmosphere
+1705,m,atmospheric dynamics,professor,Atmosphere
+1706,m,geophysics,associate professor,Earth
+1707,f,"geobiology, geology",associate professor,Earth
+1708,m,"paleoclimate, geology",associate professor,Earth
+1709,f,hydrology,associate professor,
+1710,m,"hydrology, geology",professor,Earth
+1711,m,"geobiology, paleontology",professor,Earth
+1712,f,"biological oceanography, biogeochemistry",assistant professor,Ocean
+1713,m,"biological oceanography, geochemistry, ecology",assistant professor,Ocean
+1714,f,"chemical oceanography, geochemistry, biogeochemistry",assistant professor,Ocean
+1715,f,"physical oceanography, biological oceanography",assistant professor,Ocean
+1716,m,geophysics,assistant professor,Earth
+1717,m,gis/engineering,assistant professor,
+1718,m,"biogeochemistry, chemical oceanography, physical oceanography",associate professor,Ocean
+1719,f,"chemical oceanography, ecology, biological oceanography",associate professor,Ocean
+1720,f,physical oceanography,associate professor,Ocean
+1721,m,gis/engineering,professor,
+1722,m,"ecology, biological oceanography",professor,Ocean
+1723,m,physical oceanography,professor,Ocean
+1724,m,marine geology,professor,Earth
+1725,f,physical oceanography,professor,Ocean
+1726,m,"physical oceanography, atmospheric dynamics",professor,Ocean
+1727,m,"physical oceanography, atmospheric dynamics",professor,Ocean
+1728,m,chemical oceanography,professor,Ocean
+1729,f,"geology, geochemistry",professor,Earth
+1730,m,"marine geology, geophysics",professor,Earth
+1731,m,"chemical oceanography, biogeochemistry",professor,Ocean
+1732,f,"biological oceanography, biogeochemistry, ecology",professor,Ocean
+1733,f,"biogeochemistry, geochemistry, chemical oceanography",professor,Ocean
+1734,m,physical oceanography,professor,Ocean
+1735,m,physical oceanography,professor,Ocean
+1736,f,"biological oceanography, ecology",professor,Ocean
+1737,m,"geophysics, marine geology",professor,Earth
+1738,m,biological oceanography,professor,Ocean
+1739,m,"biogeochemistry, geochemistry, chemical oceanography",professor,Ocean
+1740,m,"geomorphology, marine geology",professor,Earth
+1741,f,"biological oceanography, ecology",professor,Ocean
+1742,f,geopolitics/impacts,assistant professor,Earth
+1743,f,geopolitics/impacts,assistant professor,Earth
+1744,f,"biogeochemistry, chemical oceanography, biological oceanography",assistant professor,Ocean
+1745,m,"geochemistry, geology",assistant professor,Earth
+1746,m,geopolitics/impacts,assistant professor,Earth
+1747,m,geopolitics/impacts,assistant professor,Earth
+1748,m,geopolitics/impacts,assistant professor,Earth
+1749,f,ecology,assistant professor,
+1750,m,"ecology, geochemistry, biological oceanography",assistant professor,Ocean
+1751,f,"education, geophysics",assistant professor,Earth
+1752,m,geology,associate professor,Earth
+1753,m,"geochemistry, geoogy",associate professor,Earth
+1754,f,"biogeochemistry, chemical oceanography, biological oceanography",associate professor,Ocean
+1755,m,"paleoclimate, geology",associate professor,Earth
+1756,m,"paleoceanography, geochemistry",associate professor,Ocean
+1757,m,geopolitics/impacts,associate professor,Earth
+1758,f,biogeochemistry,associate professor,Earth
+1759,f,"biogeochemistry, geochemistry, chemical oceanography",professor,Ocean
+1760,m,"biogeochemistry, geobiology, geochemistry",professor,Earth
+1761,f,ecology,professor,
+1762,m,physical oceanography,professor,Ocean
+1763,m,"geophhysics, education",professor,Earth
+1764,m,"ecology, geobioogy, biological oceanography",professor,Ocean
+1765,m,biological oceanography,professor,Ocean
+1766,f,biological oceanography,professor,Ocean
+1767,m,"hydrology, geomorphology, ocean acoustics",professor,Ocean
+1768,m,physical oceanography,professor,Ocean
+1769,m,"geology, marine geology",professor,Earth
+1770,f,"hydrology, geology",professor,Earth
+1771,m,physical oceanography,professor,Ocean
+1772,m,"geochemistry, geology",professor,Earth
+1773,m,atmospheric chemistry,assistant professor,Atmosphere
+1774,f,"geochemistry, geology, geomorphology",assistant professor,Earth
+1775,m,gis/engineering,assistant professor,
+1776,f,paleobiology,assistant professor,
+1777,f,hydrology,assistant professor,
+1778,m,gis/engineering,assistant professor,
+1779,m,"resource management, sustainability",associate professor,
+1780,m,geopolitics/impacts,associate professor,Earth
+1781,m,geology,associate professor,Earth
+1782,f,"ecology, geopolitics/impacts, gis/engineering",associate professor,Earth
+1783,m,"geomorphology, hydrology, geology, glaciology",associate professor,Earth
+1784,m,"paleobiology, geochemistry",associate professor,Earth
+1785,f,geopolitics/impacts,associate professor,Earth
+1786,m,geophysics,associate professor,Earth
+1787,m,geopolitics/impacts,associate professor,Earth
+1788,m,"geopolitics/impacts, resource management",associate professor,Earth
+1789,m,gis/engineering,associate professor,
+1790,m,"sustainability, paleoclimate",associate professor,
+1791,m,geology,associate professor,Earth
+1792,f,sustainability,professor,
+1793,f,climate dynamics,professor,
+1794,m,geophysics,professor,Earth
+1795,m,ecology,professor,
+1796,f,gis/engineering,professor,
+1797,m,geophysics,professor,Earth
+1798,f,geophysics,professor,Earth
+1799,m,geophysics,professor,Earth
+1800,m,resource management,professor,
+1801,m,"geology, paleoclimate",professor,Earth
+1802,m,geochemistry,professor,Earth
+1803,m,"gis/engineering, ecology",professor,
+1804,m,"hydrology, ecology",professor,
+1805,m,"geochemistry, geology, education",professor,Earth
+1806,m,biogeochemistry,professor,Earth
+1807,m,education,professor,
+1808,m,geomorphology,professor,Earth
+1809,f,atmospheric chemistry,associate professor,Atmosphere
+1810,m,atmospheric chemistry,associate professor,Atmosphere
+1811,m,climate dynamics,associate professor,
+1812,m,climate dynamics,associate professor,
+1813,m,atmospheric dynamics,professor,Atmosphere
+1814,m,atmospheric dynamics,professor,Atmosphere
+1815,m,atmospheric dynamics,professor,Atmosphere
+1816,m,atmospheric chemistry,professor,Atmosphere
+1817,m,atmospheric dynamics,professor,Atmosphere
+1818,f,atmospheric dynamics,professor,Atmosphere
+1819,m,atmospheric dynamics,professor,Atmosphere
+1820,m,atmospheric dynamics,professor,Atmosphere
+1821,f,"geochemistry, geology",assistant professor,Earth
+1822,f,"paleoclimate, biogeochemistry, geobiology",assistant professor,Earth
+1823,f,"geology, paleoclimate",associate professor,Earth
+1824,m,"geochemistry, sustainability",associate professor,Earth
+1825,m,ecology,associate professor,
+1826,m,geophysics,associate professor,Earth
+1827,m,"geophysics, geology",associate professor,Earth
+1828,m,geology,associate professor,Earth
+1829,m,"geophysics, geomorphology",associate professor,Earth
+1830,m,geophysics,associate professor,Earth
+1831,m,"paleoclimate, geochemistry, biogeochemistry",professor,Earth
+1832,m,"hydrology, biogeochemistry, geochemistry",professor,Earth
+1833,m,"geochemistry, ecology",professor,Earth
+1834,f,geology,professor,Earth
+1835,m,"hydrology, land surface processes",professor,
+1836,f,geology,professor,Earth
+1837,m,hydrology,professor,
+1838,m,geophysics,professor,Earth
+1839,m,"geochemistry, hydrology",professor,Earth
+1840,m,geophysics,professor,Earth
+1841,f,geophysics,professor,Earth
+1842,f,"climate dynamics, biogeochemistry, ecology, geochemistry",associate professor,Earth
+1843,f,atmospheric dynamics,assistant professor,Atmosphere
+1844,m,"atmospheric dynamics, climate dynamics",assistant professor,Atmosphere
+1845,m,atmospheric chemistry,assistant professor,Atmosphere
+1846,m,atmospheric dynamics,associate professor,Atmosphere
+1847,f,atmospheric chemistry,professor,Atmosphere
+1848,m,"climate dynamics, atmospheric dynamics, paleoclimate",professor,Atmosphere
+1849,f,climate dynamics,professor,
+1850,m,atmospheric dynamics,professor,Atmosphere
+1851,f,atmospheric dynamics,professor,Atmosphere
+1852,m,atmospheric dynamics,professor,Atmosphere
+1853,m,"atmospheric dynamics, atmospheric chemistry",professor,Atmosphere
+1854,m,atmospheric dynamics,professor,Atmosphere
+1855,m,atmospheric dynamics,professor,Atmosphere
+1856,f,atmospheric chemistry,professor,Atmosphere
+1857,m,atmospheric chemistry,professor,Atmosphere
+1858,m,atmospheric dynamics,professor,Atmosphere
+1859,m,atmospheric chemistry,professor,Atmosphere
+1860,m,atmospheric dynamics,professor,Atmosphere
+1861,m,planetary science,professor,Planet
+1862,m,geology,professor,Earth
+1863,m,geobiology,professor,Earth
+1864,m,"biogeochemistry, geomorphology, geobiology, planetary science",professor,Planet
+1865,m,geomorphology,professor,Earth
+1866,m,geochemistry,professor,Earth
+1867,m,geology,professor,Earth
+1868,m,"atmospheric dynamics, paleoclimate",professor,Atmosphere
+1869,m,"glaciology, geochemistry",professor,Earth
+1870,m,"paleontology, geobiology",professor,Earth
+1871,m,glaciology,assistant professor,
+1872,f,"geology, geophysics",assistant professor,Earth
+1873,f,"geomorphology, geology",assistant professor,Earth
+1874,m,"geology, geochemistry",assistant professor,Earth
+1875,f,"geology, geophysics",associate professor,Earth
+1876,m,"geobiology, geochemistry, biogeochemistry",associate professor,Earth
+1877,m,geophysics,associate professor,Earth
+1878,m,"geology, geomorphology",associate professor,Earth
+1879,m,geology,professor,Earth
+1880,m,geophysics,professor,Earth
+1881,m,planetary science,professor,Planet
+1882,f,"geology, geochemistry",professor,Earth
+1883,m,geophysics,professor,Earth
+1884,m,geochemistry,professor,Earth
+1885,m,geophysics,professor,Earth
+1886,m,glaciology,professor,
+1887,m,physical oceanography,assistant professor,Ocean
+1888,f,chemical oceanography,assistant professor,Ocean
+1889,m,chemical oceanography,assistant professor,Ocean
+1890,f,physical oceanography,assistant professor,Ocean
+1891,m,physical oceanography,assistant professor,Ocean
+1892,f,biological oceanography,assistant professor,Ocean
+1893,m,chemical oceanography,associate professor,Ocean
+1894,f,physical oceanography,associate professor,Ocean
+1895,f,"biological oceanography, ecology",associate professor,Ocean
+1896,m,biological oceanography,associate professor,Ocean
+1897,m,geophysics,associate professor,Earth
+1898,f,biological oceanography,professor,Ocean
+1899,m,biological oceanography,professor,Ocean
+1900,m,physical oceanography,professor,Ocean
+1901,f,biological oceanography,professor,Ocean
+1902,m,chemical oceanography,professor,Ocean
+1903,m,marine geology,professor,Earth
+1904,m,chemical oceanography,professor,Ocean
+1905,f,"geophysics, marine geology",professor,Earth
+1906,f,biological oceanography,professor,Ocean
+1907,m,chemical oceanography,professor,Ocean
+1908,m,physical oceanography,professor,Ocean
+1909,m,geophysics,professor,Earth
+1910,f,"physical oceanography, geology, marine geology",professor,Ocean
+1911,m,physical oceanography,professor,Ocean
+1912,f,biological oceanography,professor,Ocean
+1913,m,"chemical oceanography, geochemistry, biogeochemistry",professor,Ocean
+1914,f,physical oceanography,professor,Ocean
+1915,m,geophysics,professor,Earth
+1916,f,"biogeochemistry, geochemistry",assistant professor,Earth
+1917,m,atmospheric dynamics,assistant professor,Atmosphere
+1918,m,atmospheric dynamics,assistant professor,Atmosphere
+1919,m,atmospheric dynamics,assistant professor,Atmosphere
+1920,m,atmospheric chemistry,associate professor,Atmosphere
+1921,m,atmospheric dynamics,professor,Atmosphere
+1922,m,atmospheric chemistry,professor,Atmosphere
+1923,m,"geophysics, hydrology",assistant professor,Earth
+1924,f,geology,assistant professor,Earth
+1925,m,"geophysics, geology",associate professor,Earth
+1926,m,geophysics,associate professor,Earth
+1927,f,paleobiology,associate professor,
+1928,m,geophysics,associate professor,Earth
+1929,m,geology,associate professor,Earth
+1930,m,geology,associate professor,Earth
+1931,m,"geophysics, hydrology",associate professor,Earth
+1932,m,"paleobiology, geobiology",professor,Earth
+1933,m,"glaciology, land surface processes",professor,
+1934,f,geology,professor,Earth
+1935,m,geophysics,professor,Earth
+1936,m,geophysics,professor,Earth
+1937,f,geophysics,professor,Earth
+1938,m,"ecology, paleobiology",professor,
+1939,m,education,professor,
+1940,m,geochemistry,professor,Earth
+1941,f,"paleoclimate, hydrology, climate dynamics",professor,
+1942,m,"paleoclimate, paleobiology",professor,
+1943,m,geology,professor,Earth
+1944,f,"geology, hydrology",professor,Earth
+1945,m,"geobiology, paleobiology",assistant professor,Earth
+1946,m,"geophysics, planetary science",assistant professor,Planet
+1947,f,geophysics,professor,Earth
+1948,f,"geobiology, paleobiology",professor,Earth
+1949,f,"geochemistry, geology",professor,Earth
+1950,m,geology,professor,Earth
+1951,f,"geochemistry, geobiology",professor,Earth
+1952,f,"geology, geochemistry",professor,Earth
+1953,m,geobiology,professor,Earth
+1954,m,"geochemistry, planetary science",professor,Planet
+1955,m,geology,professor,Earth
+1956,m,geology,professor,Earth
+1957,m,geophysics,professor,Earth
+1958,f,"planetary science, geophysics",professor,Planet
+1959,f,"geology, geobiology, geochemistry, planetary science",professor,Planet
+1960,m,geobiology,professor,Earth
+1961,m,"geochemistry, planetary science",professor,Planet
+1962,m,atmospheric chemistry,professor,Atmosphere
+1963,m,atmospheric chemistry,professor,Atmosphere
+1964,f,atmospheric dynamics,assistant professor,Atmosphere
+1965,m,atmospheric dynamics,assistant professor,Atmosphere
+1966,m,"hydrology, biogeochemistry, ecology (soil science)",assistant professor,Earth
+1967,f,"biogeochemistry, ecology, sustainability",assistant professor,Earth
+1968,f,"biogeochemistry, ecology (soil science)",assistant professor,Earth
+1969,m,climate dynamics,associate professor,
+1970,m,climate dynamics,associate professor,
+1971,f,hydrology,associate professor,
+1972,f,hydrology,associate professor,
+1973,m,hydrology,associate professor,
+1974,m,"biogeochemistry, geochemistry, ecology (soil science)",associate professor,Earth
+1975,m,"biogeochemistry, geobiology, ecology",associate professor,Earth
+1976,f,atmospheric dynamics,professor,Atmosphere
+1977,m,atmospheric chemistry,professor,Atmosphere
+1978,m,atmospheric dynamics,professor,Atmosphere
+1979,m,atmospheric dynamics,professor,Atmosphere
+1980,m,atmospheric dynamics,professor,Atmosphere
+1981,m,hydrology,professor,
+1982,m,hydrology,professor,
+1983,m,hydrology,professor,
+1984,m,hydrology,professor,
+1985,m,hydrology,professor,
+1986,m,"biogeochemistry, ecology (soil science)",professor,Earth
+1987,m,biogeochemistry,professor,Earth
+1988,f,"biogeochemistry, ecology, hydrology, geobiology",professor,Earth
+1989,m,"biogeochemistry, chemical oceanography, biological oceanography",assistant professor,Ocean
+1990,m,geobiology,assistant professor,Earth
+1991,m,atmospheric chemistry,assistant professor,Atmosphere
+1992,m,physical oceanography,assistant professor,Ocean
+1993,m,"atmospheric chemistry, atmospheric dynamics",associate professor,Atmosphere
+1994,m,"atmospheric dynamics, planetary science",associate professor,Planet
+1995,f,biogeochemistry,associate professor,Earth
+1996,m,planetary science,professor,Planet
+1997,m,atmospheric dynamics,professor,Atmosphere
+1998,m,atmospheric dynamics,professor,Atmosphere
+1999,f,"climate dynamics, biogeochemistry",professor,Earth
+2000,m,climate dynamics,professor,
+2001,m,atmospheric chemistry,professor,Atmosphere
+2002,m,atmospheric dynamics,professor,Atmosphere
+2003,m,atmospheric dynamics,professor,Atmosphere
+2004,m,physical oceanography,professor,Ocean
+2005,m,climate dynamics,professor,
+2006,f,atmospheric chemistry,professor,Atmosphere
+2007,m,atmospheric chemistry,professor,Atmosphere
+2008,f,"biogeochemistry, geobiology, biological oceanography",professor,Ocean
+2009,f,"geology, planetary science",assistant professor,Planet
+2010,f,"geochemistry, geology, planetary science",assistant professor,Planet
+2011,f,geophysics,associate professor,Earth
+2012,m,geophysics,associate professor,Earth
+2013,m,planetary science,associate professor,Planet
+2014,f,planetary science,associate professor,Planet
+2015,f,"geochemistry, geobiology",associate professor,Earth
+2016,f,"geology, geochemistry, geobiology",associate professor,Earth
+2017,m,planetary science,professor,Planet
+2018,m,"planetary science, geophysics",professor,Planet
+2019,m,"geochemistry, geology",professor,Earth
+2020,m,geobiology,professor,Earth
+2021,m,planetary science,professor,Planet
+2022,f,"geochemistry, planetary science, geophysics",professor,Planet
+2023,f,"geophysics, planetary science",professor,Planet
+2024,m,"geology, geochemistry",professor,Earth
+2025,m,"geophysics, planetary science",professor,Planet
+2026,m,"geochemistry, planetary science",professor,Planet
+2027,m,"planetary science, geophysics",professor,Planet
+2028,m,planetary science,professor,Planet
+2029,m,geology,professor,Earth
+2030,m,planetary science,professor,Planet
+2031,m,"geochemistry, geobiology",professor,Earth
+2032,m,geobiology,professor,Earth
+2033,m,geology,professor,Earth
+2034,m,"planetary science, geophysics",professor,Planet
+2035,f,"geobiology, geochemistry",professor,Earth
+2036,m,planetary science,professor,Planet
+2037,m,geology,professor,Earth
+2038,m,"geochemistry, planetary science",professor,Planet
+2039,m,geophysics,assistant professor,Earth
+2040,f,"geomorphology, geology",assistant professor,Earth
+2041,f,"geochemistry, geobiology",assistant professor,Earth
+2042,m,geophysics,associate professor,Earth
+2043,m,"paleoclimate, paleoceanography",associate professor,Ocean
+2044,m,geobiology,professor,Earth
+2045,m,"geochemistry, hydrology",professor,Earth
+2046,m,geology,professor,Earth
+2047,m,geology,professor,Earth
+2048,m,geology,professor,Earth
+2049,m,"geochemistry, geology",professor,Earth
+2050,m,geophysics,professor,Earth
+2051,m,"geology, land surface processes",professor,Earth
+2052,m,climate dynamics,professor,
+2053,f,"paleoclimate, paleoceanography",professor,Ocean
+2054,m,geology,professor,Earth
+2055,f,"paleobiology, geobiology",professor,Earth
+2056,f,"geochemistry, geology",professor,Earth
+2057,m,geology,professor,Earth
+2058,m,geophysics,professor,Earth
+2059,m,"paleobiology, geobiology",professor,Earth
+2060,m,"geochemistry, geobiology, chemical oceanography, biological oceanography",professor,Ocean
+2061,m,paleontology,professor,
+2062,f,geopolitics/impacts,assistant professor,Earth
+2063,f,glaciology,assistant professor,
+2064,m,"biogeochemistry, chemical oceanography, biological oceanography",assistant professor,Ocean
+2065,m,climate dynamics,assistant professor,
+2066,f,"ecology, gis/engineering",assistant professor,
+2067,m,"geomorphology, geology",assistant professor,Earth
+2068,m,"biogeochemistry, physical oceanography",assistant professor,Ocean
+2069,f,ecology,assistant professor,
+2070,f,geopolitics/impacts,associate professor,Earth
+2071,m,"ecology, sustainability",associate professor,
+2072,f,climate dynamics,professor,
+2073,m,"hydrology, ecology, geopolitics/impacts",professor,Earth
+2074,m,"gis/engineering, geopolitics/impacts",professor,Earth
+2075,m,"gis/engineering, sustainability",professor,
+2076,m,gis/engineering,professor,
+2077,m,atmospheric dynamics,professor,Atmosphere
+2078,f,"biogeochemistry, ecology",professor,Earth
+2079,m,gis/engineering,professor,
+2080,m,"hydrology, resource management",professor,
+2081,m,geopolitics/impacts,professor,Earth
+2082,m,"gis/engineering, geopolitics/impacts",professor,Earth
+2083,m,sustainability,professor,
+2084,m,"ecology, geology",professor,Earth
+2085,m,"biogeochemistry, chemical oceanography, biological oceanography",professor,Ocean
+2086,m,"gis/engineering, geopolitics/impacts",professor,Earth
+2087,m,physical oceanography,professor,Ocean
+2088,m,geology,assistant professor,Earth
+2089,f,climate dynamics,assistant professor,
+2090,m,geology,assistant professor,Earth
+2091,m,"biogeochemistry, geochemistry, geology",assistant professor,Earth
+2092,f,planetary science,assistant professor,Planet
+2093,m,"atmospheric dynamics, planetary science",assistant professor,Planet
+2094,f,hydrology,assistant professor,
+2095,m,geology,associate professor,Earth
+2096,f,geophysics,professor,Earth
+2097,m,atmospheric dynamics,professor,Atmosphere
+2098,m,"geology, paleontology",professor,Earth
+2099,m,geomorphology,professor,Earth
+2100,m,"hydrology, geophysics, geology",professor,Earth
+2101,m,"physical oceanography, geology",professor,Ocean
+2102,f,geophysics,professor,Earth
+2103,m,"biogeochemistry, paleontology",professor,Earth
+2104,m,geophysics,professor,Earth
+2105,m,"planetary science, geophysics",professor,Planet
+2106,f,geophysics,professor,Earth
+2107,m,"glaciology, geology, geophysics, gemorphology",professor,Earth
+2108,m,"geochemistry, geology",professor,Earth
+2109,m,"paleoceanography, paleoclimate, geology, geochemistry",professor,Ocean
+2110,m,"biogeochemistry, biological oceanography",associate professor,Ocean
+2111,f,geochemistry,assistant professor,Earth
+2112,m,"biogeochemistry, ecology, biological oceanography",assistant professor,Ocean
+2113,m,geopolitics/impacts (epidemiology),assistant professor,Earth
+2114,m,"geophysics, geomorphology, hydrology",assistant professor,Earth
+2115,m,biological oceanography,assistant professor,Ocean
+2116,f,"geochemistry, geology",assistant professor,Earth
+2117,f,"biological oceanography, ecology",assistant professor,Ocean
+2118,f,"ecology, paleoclimate, paleoceanography",assistant professor,Ocean
+2119,f,"biogeochemistry, ecology, biological oceanography",assistant professor,Ocean
+2120,f,"biogeochemistry, geochemistry, biological oceanography, chemical oceanography",assistant professor,Ocean
+2121,m,geophysics,assistant professor,Earth
+2122,f,physical oceanography,assistant professor,Ocean
+2123,f,"hydrology, land surface processes",assistant professor,
+2124,m,physical oceanography,assistant professor,Ocean
+2125,m,atmospheric dynamics,assistant professor,Atmosphere
+2126,f,marine biology,assistant professor,Ocean
+2127,m,gis/engineering,assistant professor,
+2128,m,geology,assistant professor,Earth
+2129,f,geochemistry,assistant professor,Earth
+2130,f,physical oceanography,assistant professor,Ocean
+2131,f,climate dynamics,assistant professor,
+2132,f,geopolitics/impacts,assistant professor,Earth
+2133,f,biogeochemistry,assistant professor,Earth
+2134,f,marine biology,assistant professor,Ocean
+2135,m,"biological oceanography, ecology",associate professor,Ocean
+2136,m,"biogeochemistry, geochemistry, chemical oceanography",associate professor,Ocean
+2137,m,"physical oceanography, climate dynamics",associate professor,Ocean
+2138,m,"atmospheric chemistry, physical oceanography",associate professor,Ocean
+2139,m,gis/engineering,associate professor,
+2140,m,ecology,associate professor,
+2141,m,"geology, geophyscs",associate professor,Earth
+2142,m,marine biology,associate professor,Ocean
+2143,m,physical oceanography,professor,Ocean
+2144,m,geophysics,professor,Earth
+2145,m,physical oceanography,professor,Ocean
+2146,m,"biogeochemistry, biological oceanography",professor,Ocean
+2147,f,"biogeochemistry, biological oceanography, chemical oceanography",professor,Ocean
+2148,m,physical oceanography,professor,Ocean
+2149,m,"biogeochemistry, ecology, biological oceanography, marine biology",professor,Ocean
+2150,f,"biogeochemistry, biological oceanography, chemical oceanography",professor,Ocean
+2151,m,"biogeochemistry, marine biology",professor,Ocean
+2152,m,"hydrology, geology, geophysics",professor,Earth
+2153,m,ocean acoustics,professor,Ocean
+2154,m,biological oceanography,professor,Ocean
+2155,m,"geophysics, geochemistry",professor,Earth
+2156,f,physical oceanography,professor,Ocean
+2157,m,"biogeochemistry, geochemistry, paleoclimate, paleoceanography",professor,Ocean
+2158,f,geophysics,professor,Earth
+2159,m,geophysics,professor,Earth
+2160,m,geochemistry,professor,Earth
+2161,m,"chemical oceanography, biogeochemistry",professor,Ocean
+2162,m,geology,professor,Earth
+2163,m,physical oceanography,professor,Ocean
+2164,m,chemical oceanography,professor,Ocean
+2165,m,geophysics,professor,Earth
+2166,m,"biological oceanography, physical oceanography",professor,Ocean
+2167,f,glaciology,professor,
+2168,f,"biological oceanography, geobiology",professor,Ocean
+2169,m,geology,professor,Earth
+2170,m,chemical oceanography,professor,Ocean
+2171,m,physical oceanography,professor,Ocean
+2172,m,"biological oceanography, ecology",professor,Ocean
+2173,f,physical oceanography,professor,Ocean
+2174,f,"chemical oceanography, atmospheric chemistry",professor,Ocean
+2175,m,marine biology,professor,Ocean
+2176,m,"ecology, biological oceanography",professor,Ocean
+2177,m,"ecology, biological oceanography",professor,Ocean
+2178,m,physical oceanography,professor,Ocean
+2179,m,"marine biology, ecology",professor,Ocean
+2180,m,ocean acoustics,professor,Ocean
+2181,m,biological oceanography,professor,Ocean
+2182,m,biological oceanography,professor,Ocean
+2183,f,"biogeochemistry, hydrology, geology, geochemistry",professor,Earth
+2184,m,"atmospheric chemistry, geochemistry",professor,Atmosphere
+2185,m,"ocean acoustics, physical oceanography",professor,Ocean
+2186,m,"biological oceanography, ecology",professor,Ocean
+2187,m,ecology,professor,
+2188,f,"paleoclimate, paleoceanography, paleoecology",professor,Ocean
+2189,f,"marine biology, ecology",professor,Ocean
+2190,m,physical oceanography,professor,Ocean
+2191,m,geology,professor,Earth
+2192,f,physical oceanography,professor,Ocean
+2193,m,chemical oceanography,professor,Ocean
+2194,m,geophysics,professor,Earth
+2195,m,physical oceanography,professor,Ocean
+2196,m,geophysics,professor,Earth
+2197,m,"chemical oceanography, ecology, biological oceanography",professor,Ocean
+2198,m,atmospheric dynamics,professor,Atmosphere
+2199,m,"chemical oceanography, ecology, biological oceanography",professor,Ocean
+2200,m,"biological oceanography, ecology",professor,Ocean
+2201,m,gis/engineering,professor,
+2202,m,biological oceanography,professor,Ocean
+2203,f,"atmospheric chemistry, chemical oceanography, biogeochemistry",professor,Ocean
+2204,m,"atmospheric chemistry, atmospheric dynamics",professor,Atmosphere
+2205,m,physical oceanography,professor,Ocean
+2206,m,"biological oceanography, marine biology",professor,Ocean
+2207,m,physical oceanography,professor,Ocean
+2208,f,atmospheric chemistry,professor,Atmosphere
+2209,m,"ecology, marine biology",professor,Ocean
+2210,m,geophysics,professor,Earth
+2211,m,geology,professor,Earth
+2212,m,physical oceanography,professor,Ocean
+2213,m,"biogeochemistry, paleoclimate",professor,Earth
+2214,f,ecology,professor,
+2215,m,gis/engineering,professor,
+2216,f,physical oceanography,professor,Ocean
+2217,m,"ecology, biogeochemistry",professor,Earth
+2218,f,physical oceanography,professor,Ocean
+2219,f,geology,professor,Earth
+2220,m,geomorphology,professor,Earth
+2221,m,climate dynamics,professor,
+2222,m,physical oceanography,professor,Ocean
+2223,f,atmospheric dynamics,assistant professor,Atmosphere
+2224,m,climate dynamics,assistant professor,
+2225,f,"hydrology, climate dynamics",associate professor,
+2226,m,climate dynamics,associate professor,
+2227,m,atmospheric chemistry,professor,Atmosphere
+2228,m,"climate dynamics, biogeochemistry, hydrology, geochemistry",professor,Earth
+2229,f,atmospheric dynamics,professor,Atmosphere
+2230,m,atmospheric dynamics,professor,Atmosphere
+2231,m,atmospheric dynamics,professor,Atmosphere
+2232,f,atmospheric chemistry,professor,Atmosphere
+2233,m,atmospheric dynamics,professor,Atmosphere
+2234,f,atmospheric dynamics,professor,Atmosphere
+2235,m,"atmospheric chemistry, atmospheric dynamics",professor,Atmosphere
+2236,m,geopolitics/impacts,assistant professor,Earth
+2237,m,geopolitics/impacts,assistant professor,Earth
+2238,m,"geomorphology, geobiology, ecology",assistant professor,Earth
+2239,f,"gis/engineering, hydrology, biogeochemistry",assistant professor,Earth
+2240,m,ecology,assistant professor,
+2241,m,geopolitics/impacts,associate professor,Earth
+2242,f,gis/engineering,professor,
+2243,f,"gis/engineering, geopolitics/impacts",professor,Earth
+2244,m,geomorphology,professor,Earth
+2245,m,"hydrology, geopolitics/impacts",professor,Earth
+2246,m,gis/engineering,professor,
+2247,m,geopolitics/impacts,professor,Earth
+2248,f,geochemistry,assistant professor,Earth
+2249,m,"geology, geochemistry",assistant professor,Earth
+2250,m,geochemistry,associate professor,Earth
+2251,f,geomorphology,associate professor,Earth
+2252,f,"geochemistry, paleoclimate, climate dynamics",associate professor,Earth
+2253,f,geophysics,associate professor,Earth
+2254,m,geophysics,associate professor,Earth
+2255,f,"biogeochemistry, geology, geobiology, ecology, geochemistry",associate professor,Earth
+2256,m,"geophysics, geology",professor,Earth
+2257,m,"geobiology, geology",professor,Earth
+2258,m,"paleoclimate, ecology, geology",professor,Earth
+2259,m,"geochemistry, geology, hydrology",professor,Earth
+2260,m,"geology, geochemistry",professor,Earth
+2261,m,hydrology,professor,
+2262,m,geophysics,professor,Earth
+2263,m,climate dynamics,professor,
+2264,f,physical oceanography,associate professor,Ocean
+2265,m,atmospheric chemistry,assistant professor,Atmosphere
+2266,m,atmospheric dynamics,assistant professor,Atmosphere
+2267,m,physical oceanography,assistant professor,Ocean
+2268,f,physical oceanography,associate professor,Ocean
+2269,m,physical oceanography,professor,Ocean
+2270,m,"atmospheric chemistry, biogeochemistry",professor,Atmosphere
+2271,f,atmospheric dynamics,professor,Atmosphere
+2272,m,atmospheric dynamics,professor,Atmosphere
+2273,m,climate dynamics,professor,
+2274,m,"climate dynamics, sustainability",professor,
+2275,m,climate dynamics,professor,
+2276,f,"climate dynamics, hydrology",professor,
+2277,m,atmospheric chemistry,professor,Atmosphere
+2278,m,climate dynamics,professor,
+2279,m,atmospheric dynamics,professor,Atmosphere
+2280,m,geophysics,assistant professor,Earth
+2281,f,geology,assistant professor,Earth
+2282,m,"geochemistry, planetary science",associate professor,Planet
+2283,m,geophysics,associate professor,Earth
+2284,f,"geology, hydrology",associate professor,Earth
+2285,m,"geophysics, planetary science, geology",associate professor,Planet
+2286,m,geology,professor,Earth
+2287,m,paleoclimate,professor,
+2288,m,"geochemistry, planetary science",professor,Planet
+2289,m,"chemical oceanography, paleoceanography",professor,Ocean
+2290,m,"geopolitics/impacts, ecology",professor,Earth
+2291,m,planetary science,professor,Planet
+2292,m,"geology, geochemistry",professor,Earth
+2293,m,"planetary science, geophysics",professor,Planet
+2294,f,geology,professor,Earth
+2295,m,geochemistry,professor,Earth
+2296,f,"geomorphology, geology",professor,Earth
+2297,m,geopolitics/impacts,assistant professor,Earth
+2298,f,geopolitics/impacts,assistant professor,Earth
+2299,m,"gis/engineering, sustainability",associate professor,
+2300,m,geopolitics/impacts,associate professor,Earth
+2301,f,geopolitics/impacts,associate professor,Earth
+2302,m,geopolitics/impacts,associate professor,Earth
+2303,f,geopolitics/impacts,associate professor,Earth
+2304,m,ecology,associate professor,
+2305,f,geopolitics/impacts,associate professor,Earth
+2306,m,"hydrology, biogeochemistry",associate professor,Earth
+2307,f,geopolitics/impacts,associate professor,Earth
+2308,f,"climate dynamics, paleoclimate",associate professor,
+2309,m,"gis/engineering, geopolitics/impacts",professor,Earth
+2310,f,geopolitics/impacts,professor,Earth
+2311,m,geopolitics/impacts,professor,Earth
+2312,m,climate dynamics,professor,
+2313,f,geopolitics/impacts,professor,Earth
+2314,m,geopolitics/impacts,professor,Earth
+2315,m,ecology,professor,
+2316,f,geopolitics/impacts,professor,Earth
+2317,m,geopolitics/impacts,professor,Earth
+2318,f,geochemistry,assistant professor,Earth
+2319,f,hydrology,assistant professor,
+2320,f,geomorphology,associate professor,Earth
+2321,m,geology,associate professor,Earth
+2322,m,geochemistry,professor,Earth
+2323,m,"geochemistry, geology",professor,Earth
+2324,m,geophysics,professor,Earth
+2325,m,hydrology,professor,
+2326,f,"paleoclimate, geochemistry",professor,Earth
+2327,m,"biogeochemistry, geochemistry",professor,Earth
+2329,m,geophysics,assistant professor,Earth
+2330,f,geochemistry,assistant professor,Earth
+2331,m,"biogeochemistry, geochemistry, geobiology",assistant professor,Earth
+2332,f,biogeochemistry,assistant professor,Earth
+2333,m,climate dynamics,associate professor,
+2334,f,"paleoclimate, geochemistry, biogeochemistry",associate professor,Earth
+2335,m,"geochemistry, geobiology, geology",associate professor,Earth
+2336,m,"geobiology, geochemistry",professor,Earth
+2337,m,geophysics,professor,Earth
+2338,m,biogeochemistry,professor,Earth
+2339,m,"geobiology, paleobiology, paleoclimate",professor,Earth
+2340,m,geobiology,professor,Earth
+2341,m,geophysics,professor,Earth
+2342,m,geochemistry,professor,Earth
+2343,f,geophysics,professor,Earth
+2344,m,geophysics,professor,Earth
+2345,m,geophysics,professor,Earth
+2346,m,geology,professor,Earth
+2347,m,geology,professor,Earth
+2348,m,"climate dynamics, paleoclimate",professor,
+2349,m,geophysics,professor,Earth
+2350,m,"land surface processes, hydrology, climate dynamics",professor,
+2351,m,"land surface processes, planetary science",assistant professor,Planet
+2352,f,"geobiology, paleontology, geology",assistant professor,Earth
+2353,f,"hydrology, ecology",assistant professor,
+2354,f,"climate dynamics, hydrology",assistant professor,
+2355,f,"hydrology, geomorphology",assistant professor,Earth
+2356,m,geology,assistant professor,Earth
+2357,m,geophysics,assistant professor,Earth
+2358,m,geochemistry,associate professor,Earth
+2359,m,"paleoclimate, geochemistry",associate professor,Earth
+2360,f,"geology, geochemistry",associate professor,Earth
+2361,m,geology,associate professor,Earth
+2362,m,physical oceanography,associate professor,Ocean
+2363,m,geophysics,associate professor,Earth
+2364,m,geomorphology,associate professor,Earth
+2365,m,geology,associate professor,Earth
+2366,m,"paleoclimate, geochemistry",associate professor,Earth
+2367,m,"geology, geophysics",associate professor,Earth
+2368,m,"geochemistry, hydrology, geology",professor,Earth
+2369,m,geophysics,professor,Earth
+2370,m,geobiology,professor,Earth
+2371,m,"geochemistry, hydrology, geology, geobiology",professor,Earth
+2372,m,hydrology,professor,
+2373,f,glaciology,professor,
+2374,f,"paleontology, geobiology",professor,Earth
+2375,m,geology,professor,Earth
+2376,m,climate dynamics,professor,
+2377,m,geology,professor,Earth
+2378,m,geology,professor,Earth
+2379,m,geophysics,professor,Earth
+2380,m,geophysics,professor,Earth
+2381,m,geophysics,professor,Earth
+2382,m,geophysics,professor,Earth
+2383,m,"geology, geochemistry",professor,Earth
+2384,m,geology,professor,Earth
+2385,m,"geology, hydrology",professor,Earth
+2386,m,geology,professor,Earth
+2387,m,geochemistry,professor,Earth
+2388,m,geology,professor,Earth
+2389,m,geology,professor,Earth
+2390,f,geology,professor,Earth
+2391,m,geology,professor,Earth
+2392,m,paleontology,professor,
+2393,m,geophysics,professor,Earth
+2394,m,geophysics,professor,Earth
+2395,m,geology,professor,Earth
+2396,m,"education, sustainability",professor,
+2397,m,geophysics,professor,Earth
+2398,m,"climate dynamics, hydrology",professor,
+2399,m,geophysics,assistant professor,Earth
+2400,m,"hydrology, geology",associate professor,Earth
+2401,m,geophysics,professor,Earth
+2402,m,geology,professor,Earth
+2403,m,geophysics,professor,Earth
+2404,m,geochemistry,professor,Earth
+2405,m,geology,professor,Earth
+2406,m,"atmospheric dynamics, ecology, climate dynamics",professor,Atmosphere
+2407,f,atmospheric chemistry,professor,Atmosphere
+2408,f,atmospheric dynamics,assistant professor,Atmosphere
+2409,f,"physical oceanography, climate dynamics",assistant professor,Ocean
+2410,f,atmospheric dynamics,assistant professor,Atmosphere
+2411,f,atmospheric dynamics,associate professor,Atmosphere
+2412,m,"atmospheric dynamics, atmospheric chemistry",professor,Atmosphere
+2413,m,"climate dynamics, atmospheric dynamics",professor,Atmosphere
+2414,m,"atmospheric dynamics, atmospheric chemistry",professor,Atmosphere
+2415,m,"atmospheric dynamics, atmospheric chemistry",professor,Atmosphere
+2416,m,atmospheric dynamics,professor,Atmosphere
+2417,m,atmospheric dynamics,professor,Atmosphere
+2418,m,atmospheric dynamics,professor,Atmosphere
+2419,m,atmospheric dynamics,professor,Atmosphere
+2420,m,climate dynamics,professor,
+2421,f,"geochemistry, geology",assistant professor,Earth
+2422,f,geochemistry,assistant professor,Earth
+2423,m,"geomorphology, geophysics",assistant professor,Earth
+2424,m,"paleoclimate, geology",assistant professor,Earth
+2425,m,"hydrology, geology",assistant professor,Earth
+2426,m,"glaciology, geology",assistant professor,Earth
+2427,m,"geology, hydroogy",associate professor,Earth
+2428,m,geology,professor,Earth
+2429,m,geology,professor,Earth
+2430,f,"paleoclimate, geochemistry, paleoceanography",professor,Ocean
+2431,m,geology,professor,Earth
+2432,f,geology,professor,Earth
+2433,m,"paleontology, paleoceanography",professor,Ocean
+2434,m,"paleoclimate, geology, geochemistry",professor,Earth
+2435,m,"paleoclimate, geochemistry, geology",professor,Earth
+2436,m,"geobiology, biogeochemistry, ecology",professor,Earth
+2437,m,"geology, geochemistry",professor,Earth
+2438,m,geophysics,professor,Earth
+2439,m,geology,professor,Earth
+2440,m,geology,professor,Earth
+2441,f,geopolitics/impacts,assistant professor,Earth
+2442,m,"climate dynamics, hydrology",assistant professor,
+2443,f,atmospheric dynamics,assistant professor,Atmosphere
+2444,m,geopolitics/impacts,associate professor,Earth
+2445,m,"climate dynamics, hydrology",associate professor,
+2446,m,geopolitics/impacts,associate professor,Earth
+2447,f,"geopolitics/impacts, ecology",associate professor,Earth
+2448,f,geopolitics/impacts,associate professor,Earth
+2449,m,geopolitics/impacts,associate professor,Earth
+2450,m,gis/engineering,associate professor,
+2451,f,ecology,associate professor,
+2452,m,gis/engineering,associate professor,
+2453,m,geomorphology,professor,Earth
+2454,m,gis/engineering,professor,
+2455,m,gis/engineering,professor,
+2456,f,"geochemistry, geology",assistant professor,Earth
+2457,f,geophysics,assistant professor,Earth
+2458,m,geochemistry,assistant professor,Earth
+2459,f,geophysics,assistant professor,Earth
+2460,f,geobiology,assistant professor,Earth
+2461,m,geology,associate professor,Earth
+2462,m,geochemistry,associate professor,Earth
+2463,m,sustainability,associate professor,
+2464,m,geology,associate professor,Earth
+2465,m,geophysics,associate professor,Earth
+2466,f,geophysics,associate professor,Earth
+2467,m,geochemistry,professor,Earth
+2468,m,"hydrology, geology",professor,Earth
+2469,f,geology,professor,Earth
+2470,m,geology,professor,Earth
+2471,m,geophysics,professor,Earth
+2472,m,geophysics,professor,Earth
+2473,m,geophysics,professor,Earth
+2474,m,geology,professor,Earth
+2475,m,geobiology,professor,Earth
+2476,m,geology,professor,Earth
+2477,f,"geochemistry, hydrology",professor,Earth
+2478,m,geomorphology,professor,Earth
+2479,m,geology,professor,Earth
+2480,m,geobiology,professor,Earth
+2481,m,"paleoclimate, geology",assistant professor,Earth
+2482,m,geochemistry,associate professor,Earth
+2483,m,geology,professor,Earth
+2484,m,"geomorphology, hydrology",professor,Earth
+2485,m,paleobiology,professor,
+2486,f,education,professor,
+2487,m,geology,professor,Earth
+2489,m,geophysics,professor,Earth
+2490,m,"geobiology, paleontology",assistant professor,Earth
+2491,f,"ecology, biological oceanography",assistant professor,Ocean
+2492,m,"atmospheric dynamics, atmospheric chemistry",assistant professor,Atmosphere
+2493,m,geochemistry,assistant professor,Earth
+2494,m,"geochemistry, paleoclimate",assistant professor,Earth
+2495,f,"geobiology, geology",assistant professor,Earth
+2496,m,geology,professor,Earth
+2497,m,geophysics,professor,Earth
+2498,f,"geochemistry, geobiology, biogeochemistry, paleoclimate",professor,Earth
+2499,m,geology,professor,Earth
+2500,m,"geobiology, paleontology",professor,Earth
+2501,m,geology,professor,Earth
+2502,m,"physical oceanography, climate dynamics",professor,Ocean
+2503,m,"geobiology, paleontology",professor,Earth
+2504,m,geophysics,professor,Earth
+2505,m,geophysics,professor,Earth
+2506,m,planetary science,professor,Planet
+2507,f,geophysics,professor,Earth
+2508,m,geophysics,professor,Earth
+2509,m,"biogeochemistry, geochemistry, geobiology",professor,Earth
+2510,m,geochemistry,professor,Earth
+2511,m,"biogeochemistry, ecology",professor,Earth
+2512,m,atmospheric dynamics,professor,Atmosphere
+2513,f,physical oceanography,professor,Ocean
