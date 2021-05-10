@@ -1,4 +1,4 @@
-# female_geosci
+# women_geosci
 
 There are three data files that have been cleaned up for public use:
 discipline_data.csv is the faculty data aggregated by subdiscipline
